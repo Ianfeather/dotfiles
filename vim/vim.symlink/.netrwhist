@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/mark/github/chef-repo/cookbooks/apache2/recipes'
+let g:netrw_dirhist_2='/Users/mark/github/chef-repo/cookbooks/graphiti/templates/default'
+let g:netrw_dirhist_3='/Users/mark/github/chef-repo/cookbooks/elasticsearch/recipes'
+let g:netrw_dirhist_4='/Users/mark/github/chef-repo/cookbooks/java'
