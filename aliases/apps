@@ -1,0 +1,14 @@
+#iA Writer
+alias ia='open -b jp.informationarchitects.WriterForMacOSX'
+
+#open current directory in TextMate
+alias m='mate .'
+
+#open current directory in Coda
+alias c='coda .'
+
+#Open in Textmate
+alias aliases='mate ~/.bash/aliases'
+
+#Open Chrome with xss allowed
+alias chromexss='open -a Google\ Chrome --args --disable-web-security'

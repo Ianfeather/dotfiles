@@ -1,0 +1,18 @@
+#bash
+alias la='ls -lah -G'
+alias reload='. ~/.bash_profile'
+
+#Shortcuts to directories
+alias ..='cd ..'
+alias ...='cd ../..'
+alias repos='cd ~/Dropbox/Repositories'
+
+# commands starting with % for pasting from web
+alias %=' '
+alias pbc='pwd | pbcopy'
+alias tailler="tail -f log/development.log;"
+alias pygrep="grep --include='*.py' $*"
+alias rbgrep="grep --include='*.rb' $*"
+
+# changing directory to code project
+function c { cd ~/development/lp/online/$1; }

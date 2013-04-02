@@ -1,0 +1,39 @@
+# Directories
+
+alias statler='cd ~/development/lp/online/lponline/statler'
+alias static='cd ~/development/lp/online/lponline/static-ui'
+alias shop='cd ~/development/lp/online/shop'
+alias groups='cd ~/development/lp/online/groups'
+alias sandbox='cd ~/development/lp/online/lponline_sandbox'
+alias groups='cd ~/development/lp/online/groups'
+alias microsites='cd ~/development/lp/online/microsites/microsites/'
+alias themes='cd ~/development/lp/online/themes'
+alias destinations='cd ~/development/lp/online/lponline/destinations'
+
+alias rizzo='cd ~/development/lp/online/rizzo'
+alias beaker='cd ~/development/lp/online/beaker'
+alias avocado='cd ~/development/lp/online/avocado'
+
+alias waldorf='cd ~/development/lp/online/waldorf'
+alias rowlf='cd ~/development/lp/online/rowlf'
+
+alias lpworking='cd ~/Dropbox/Repositories/LonelyPlanet/lp-working-directory'
+
+
+#shop
+
+alias shoptA='ant tomcat-stop clean clean-ivy remove-h2database web-tests-part-a -Dcheckstyle.skip=true'
+alias shoptB='ant tomcat-stop clean clean-ivy remove-h2database web-tests-part-b -Dcheckstyle.skip=true'
+alias shoptInt='ant tomcat-stop clean clean-ivy remove-h2database web-tests-part-integration -Dcheckstyle.skip=true'
+
+
+# Destinations App
+alias tomstop='sudo /etc/init.d/tomcat6 stop'
+alias dpubskip='ant publish -Dtest.skip=true'
+alias dpub='ant publish'
+alias tomstart='sudo /etc/init.d/tomcat6 start'
+
+
+# vagrant
+alias vup='vagrant up'
+alias vhalt='vagrant halt'

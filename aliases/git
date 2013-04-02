@@ -1,0 +1,19 @@
+# git
+alias gs='git status'
+alias gst='git stash'
+alias gstp='git stash pop'
+alias gl='git pull'
+alias gp='git push'
+alias gd='git diff | mate'
+alias gdl='git diff @{1}..'
+alias gc='git commit -v'
+alias gca='git commit -v -a'
+alias gb='git branch'
+alias gba='git branch -a'
+alias gch='git checkout'
+alias gcm='git checkout master'
+alias gsb='git show-branch'
+alias gx='gitx --all'
+alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
+alias gau="git add --update"
+alias gitlog="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"
