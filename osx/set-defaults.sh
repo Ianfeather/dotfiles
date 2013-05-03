@@ -34,7 +34,7 @@ defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
 
 # Speed up repeat rate
-defaults write NSGlobalDomain KeyRepeat -int 2
+defaults write NSGlobalDomain KeyRepeat -int 0
 
 
 for app in "Address Book" "Calendar" "Contacts" "Dashboard" "Dock" "Finder" \
