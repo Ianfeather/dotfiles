@@ -33,6 +33,9 @@ defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 # Copy email addresses as `foo@example.com` instead of `Foo Bar <foo@example.com>` in Mail.app
 defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
 
+# Speed up repeat rate
+defaults write NSGlobalDomain KeyRepeat -int 2
+
 
 for app in "Address Book" "Calendar" "Contacts" "Dashboard" "Dock" "Finder" \
   "Mail" "Safari" "SystemUIServer" "Terminal" "iCal"; do
