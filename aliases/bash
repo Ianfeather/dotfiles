@@ -16,3 +16,9 @@ alias rbgrep="grep --include='*.rb' $*"
 
 # changing directory to code project
 function c { cd ~/development/lp/online/$1; }
+
+# Spin up a server, just specify port
+
+server() {
+  open "http://localhost:${1}" && python -m SimpleHTTPServer $1
+}
