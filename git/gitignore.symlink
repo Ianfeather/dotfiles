@@ -1,1 +1,8 @@
-.DS_Store
+*DS_Store
+.rspec
+.rvmrc
+.ruby-gemset
+.ruby-version
+/.bundle
+.jhw-cache/
+.sass-cache/*

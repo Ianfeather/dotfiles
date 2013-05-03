@@ -5,8 +5,15 @@
 # Assume everyone's on OS X and run Homebrew (*nix-ers beware)
 if [ $(uname -s) = "Darwin" ] 
 then
-	. script/homebrew
+  . script/homebrew
 fi
+
+# Source our aliases
+cat script/snippet.SOURCE >> $HOME/.bash_profile
+source $HOME/.bash_profile
+
+# Set up our OSX Defaults
+source osx/set-defaults.sh
 
 # Run the install (I'd like to pull this out of rake, eventually)
 rake install
