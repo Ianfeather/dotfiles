@@ -2,18 +2,40 @@
 #
 # bootstrap installs things.
 
-# Assume everyone's on OS X and run Homebrew (*nix-ers beware)
+# Ask for the administrator password upfront
+sudo -v
+
+echo "========================================================"
+echo "Installing some core software using Homebrew"
+echo "========================================================"
+
 if [ $(uname -s) = "Darwin" ] 
 then
   . script/homebrew
 fi
 
-# Source our aliases
+echo "========================================================"
+echo "Copying exports into bash_profile"
+echo "Making aliases global"
+echo "========================================================"
+
 cat script/snippet.SOURCE >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
-# Set up our OSX Defaults
+echo "========================================================"
+echo "Reconfiguring OSX Defaults"
+echo "========================================================"
+
 source osx/set-defaults.sh
 
-# Run the install (I'd like to pull this out of rake, eventually)
+echo "========================================================"
+echo "Symlinking config files"
+echo "========================================================"
+
 rake install
+
+echo "========================================================"
+echo "AWS Set up"
+echo "========================================================"
+
+source script/aws
