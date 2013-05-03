@@ -4,16 +4,16 @@ echo "========================================================"
 echo "Creating your private key"
 echo "========================================================"
 
-mkdir ~/.testaws/
-mkdir -p ~/.testaws/certs
-openssl genrsa 1024 > ~/.testaws/certs/pk.pem
-openssl req -new -x509 -nodes -sha1 -days 3650 -key ~/.testaws/certs/pk.pem -outform PEM > ~/.testaws/certs/cert.pem
+mkdir ~/.aws/
+mkdir -p ~/.aws/creds
+openssl genrsa 1024 > ~/.aws/creds/ianf.pem
+openssl req -new -x509 -nodes -sha1 -days 3650 -key ~/.aws/creds/ianf.pem -outform PEM > ~/.aws/creds/cert.pem
 
 echo "========================================================"
 echo "Downloading the ec2 tools"
 echo "========================================================"
 
-cd ~/.testaws/
+cd ~/.aws/
 curl --output ./ec2.zip http://s3.amazonaws.com/ec2-downloads/ec2-ami-tools.zip
 unzip ec2.zip
 rm ec2.zip
@@ -24,7 +24,7 @@ echo "In the bottom panel, click Manage Access Keys -> Create Key. Note the AWS 
 echo "In the same bottom panel, select Manage Signing Certificates -> Upload Signing Certificate"
 echo "Paste this certificate text into the box:"
 
-cat ~/.testaws/certs/cert.pem
+cat ~/.aws/creds/cert.pem
 source $HOME/.bash_profile
 
 echo "========================================================"
