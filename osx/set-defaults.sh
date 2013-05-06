@@ -24,11 +24,21 @@ defaults write com.apple.finder QuitMenuItem -bool true
 echo "Disable the warning when changing a file extension"
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 
-echo "Copy email addresses as `foo@example.com` instead of `Foo Bar <foo@example.com>` in Mail.app"
+echo "Copy email addresses as foo@example.com instead of Foo Bar <foo@example.com> in Mail.app"
 defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
 
 echo "Speed up repeat rate"
 defaults write NSGlobalDomain KeyRepeat -int 0
+
+echo "Remap the hash key to §"
+if [ ! -d $HOME/Library/KeyBindings/ ]; then
+  mkdir $HOME/Library/KeyBindings
+fi
+if [ ! -f $HOME/Library/KeyBindings/DefaultKeyBinding.dict ]; then
+  touch $HOME/Library/KeyBindings/DefaultKeyBinding.dict;
+fi
+cat script/remap.SOURCE >> ~/Library/KeyBindings/DefaultKeyBinding.dict
+
 
 for app in "Address Book" "Calendar" "Contacts" "Dashboard" "Dock" "Finder" \
   "Mail" "Safari" "SystemUIServer" "Terminal" "iCal"; do
