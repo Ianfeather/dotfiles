@@ -1,0 +1,3 @@
+#cucumber
+alias bc='bundle exec cucumber'
+alias bcj='bundle exec cucumber -p javascript'

@@ -1,0 +1,775 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "development/lp/online/waldorf/app/assets/javascripts/lib/lodgings.js.coffee",
+			"settings":
+			{
+				"buffer_size": 1552,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/helpers/nav_item_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/views/destinations/partials/_left_nav.html.haml",
+			"settings":
+			{
+				"buffer_size": 862,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+			"settings":
+			{
+				"buffer_size": 1590,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings_container.html.haml",
+			"settings":
+			{
+				"buffer_size": 614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings.html.haml",
+			"settings":
+			{
+				"buffer_size": 595,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/views/destinations/partials/cards/_collection_card.html.haml",
+			"settings":
+			{
+				"buffer_size": 834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_errors.sass",
+			"settings":
+			{
+				"buffer_size": 1696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/features/step_definitions/navigation_steps.rb",
+			"settings":
+			{
+				"buffer_size": 8242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_stack_filter.html.haml",
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/features/lodging_list_nearby.feature",
+			"settings":
+			{
+				"buffer_size": 4362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/Gemfile.lock",
+			"settings":
+			{
+				"buffer_size": 10240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/Gemfile",
+			"settings":
+			{
+				"buffer_size": 2376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass",
+			"settings":
+			{
+				"buffer_size": 9157,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"cof",
+				"Coffee: Check Syntax"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile",
+		"/Users/Ian/development/lp/online/waldorf/.rvmrc",
+		"/Users/Ian/development/lp/online/waldorf/app/models/place.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_nearby_places.feature",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/lodging_list_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_descendants.feature",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/analytics/analytics_lodgings.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/analytics/analytics_lodging.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/lodging.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/search.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/stack.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile.lock",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_lodgings.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/views/static/cards.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_collection_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/models/stacks/lodgings.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/routes.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/es.development.yml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/config/requirejs.yml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_stack.html.haml",
+		"/Users/Ian/Dropbox/Repositories/LonelyPlanet/lp-working-directory/UI Tests/Miguel/css/lonely-planet.css",
+		"/Users/Ian/development/lp/online/beaker/public/partials/components.html",
+		"/Users/Ian/development/lp/online/beaker/views/components.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".label",
+			"disclaimer",
+			"section-title",
+			"section-subtitle",
+			"%re-size",
+			"section-subtitle",
+			".section-title",
+			"error__image",
+			"<<<<",
+			"ge should have the following query ",
+			"js-stack-card",
+			"js-stack-card-filter",
+			"args",
+			"milisecondsToDays",
+			"normalizeDate",
+			"totalResults",
+			"searchScope"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "development/lp/online/waldorf/app/assets/javascripts/lib/lodgings.js.coffee",
+					"settings":
+					{
+						"buffer_size": 1552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 394.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "development/lp/online/waldorf/app/helpers/nav_item_helper.rb",
+					"settings":
+					{
+						"buffer_size": 1351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "development/lp/online/waldorf/app/views/destinations/partials/_left_nav.html.haml",
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 1590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings_container.html.haml",
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings.html.haml",
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "development/lp/online/waldorf/app/views/destinations/partials/cards/_collection_card.html.haml",
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_errors.sass",
+					"settings":
+					{
+						"buffer_size": 1696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 304.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "development/lp/online/waldorf/features/step_definitions/navigation_steps.rb",
+					"settings":
+					{
+						"buffer_size": 8242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3535.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_stack_filter.html.haml",
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "development/lp/online/waldorf/features/lodging_list_nearby.feature",
+					"settings":
+					{
+						"buffer_size": 4362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 226.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "development/lp/online/waldorf/Gemfile.lock",
+					"settings":
+					{
+						"buffer_size": 10240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "development/lp/online/waldorf/Gemfile",
+					"settings":
+					{
+						"buffer_size": 2376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								735,
+								735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass",
+					"settings":
+					{
+						"buffer_size": 9157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								934,
+								934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lodging_list_wi",
+				"features/lodging_list_with_nearby_places.feature"
+			],
+			[
+				"lod",
+				"features/lodging_list_nearby.feature"
+			],
+			[
+				"lodging_li",
+				"features/step_definitions/lodging_list_steps.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"cards",
+				"app/views/static/cards.html.haml"
+			],
+			[
+				"stack_it",
+				"app/views/destinations/partials/_stack_items_collection_card.html.haml"
+			],
+			[
+				"c",
+				"public/partials/components.html"
+			],
+			[
+				"comp",
+				"views/components.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"b",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"a",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"A",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"fo",
+				"/Users/Ian/Dropbox/fonts.sublime-project"
+			],
+			[
+				"bea",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"be",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"",
+				"/Users/Ian/beaker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

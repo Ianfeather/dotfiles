@@ -35,6 +35,12 @@ echo "========================================================"
 rake install
 
 echo "========================================================"
+echo "Symlinking Sublime Text Settings"
+echo "========================================================"
+
+ln -s $HOME/Dropbox/Repositories/myRepos/dotfiles/sublimetext/User/ $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+
+echo "========================================================"
 echo "AWS Set up"
 echo "========================================================"
 

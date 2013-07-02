@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_cards_base.sass",
+			"settings":
+			{
+				"buffer_size": 4196,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"wa",
+				"Word Wrap: Toggle"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_gallery.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_left_nav.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_extends/_positioning/_absolutes.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_core/_ads.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_core/_nav_flyout.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_filters.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_appearance.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_tags.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_buttons.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_extends/_typography/_font_family.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_core/_font.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_legacy/_secondary_nav.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_legacy.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_legacy/_overrides.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_core/_typography.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_core.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_copy.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_cards.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_extends/_typography/_opt_in_typography.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_extends/_typography/_typographic_scale.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_loading_spinner.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_stack.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_stack_articles.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_tabs.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_thumbnail_grid.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_extends/_objects/_media.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_globalnav/_core/_rows.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_variables/_colours.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_extends/_lp_styles/_decoration.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_extends/_icons/_icon_setup.sass",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/_accordion.sass",
+		"/Users/Ian/development/lp/online/beaker/Gemfile",
+		"/Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_variables/_sizes.sass",
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Ian/development/lp/online/beaker/.sass-cache/e0988cab7afa2d3632d0faabe742923fb1085f52/_cards.sassc",
+		"/Users/Ian/Dropbox/Repositories/LonelyPlanet/lp-working-directory/UI Tests/Miguel/css/lonely-planet.css",
+		"/Users/Ian/development/lp/online/beaker/public/partials/components.html",
+		"/Users/Ian/development/lp/online/beaker/views/components.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%re-size",
+			"%helvetica-neue",
+			"%lp-font-stack",
+			"$base-font-size",
+			"card__description",
+			"%absolute",
+			"@absolute",
+			"empty-generated-content",
+			"@extend %absolute",
+			"empty-generated-content",
+			"@extend %absolute",
+			"@extend %relative",
+			"%relative",
+			"%benton-regular",
+			"hover",
+			"4adae0",
+			"$active",
+			"%active-background",
+			"e5ebee",
+			"image_url",
+			"double",
+			"image_url",
+			"empty-generated",
+			"double"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"position: relative"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_cards_base.sass",
+					"settings":
+					{
+						"buffer_size": 4196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"font",
+				"app/assets/stylesheets/_globalnav/_core/_font.sass"
+			],
+			[
+				"lp_s",
+				"app/assets/stylesheets/_extends/_lp_styles/_decoration.sass"
+			],
+			[
+				"typ",
+				"app/assets/stylesheets/_extends/_typography/_typographic_scale.sass"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"sizes",
+				"app/assets/stylesheets/_variables/_sizes.sass"
+			],
+			[
+				"cards",
+				"app/assets/stylesheets/_common-ui/_cards.sass"
+			],
+			[
+				"c",
+				"public/partials/components.html"
+			],
+			[
+				"comp",
+				"views/components.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"wa",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"a",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"fo",
+				"/Users/Ian/Dropbox/fonts.sublime-project"
+			],
+			[
+				"w",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"",
+				"/Users/Ian/waldorf.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true
+}

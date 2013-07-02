@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pr",
+				"ProximityLoader"
+			],
+			[
+				"p",
+				"ProximityLoader"
+			],
+			[
+				"des",
+				"deserialized"
+			],
+			[
+				"pa",
+				"pagination"
+			],
+			[
+				"ne",
+				"newParams"
+			],
+			[
+				"al",
+				"allTypes"
+			],
+			[
+				"an",
+				"analytics"
+			],
+			[
+				"page",
+				"page_offsets"
+			],
+			[
+				"_updat",
+				"_updateOffset"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "development/lp/online/avocado/app/assets/javascripts/lib/components/proximity_loader.js.coffee",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/avocado/spec/javascripts/fixtures/proximity_loader.html",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "require ['public/assets/javascripts/lib/components/proximity_loader.js'], (ProximityLoader) ->\n\n  config =\n    list: \".js-loader-one, .js-loader-two, .js-loader-three\"\n\n  describe 'Proximity Loader', ->\n\n    LISTENER = '#js-card-holder'\n\n    describe 'Object', ->\n      it 'is defined', ->\n        expect(ProximityLoader).toBeDefined()\n\n\n    describe 'Setup', ->\n      beforeEach ->\n        loadFixtures('proximity_loader.html')\n        window.proximityLoader = new ProximityLoader(config)\n\n      it 'creates an array of watchable objects', ->\n        \n\n\n\n        ",
+			"file": "development/lp/online/avocado/spec/javascripts/lib/components/proximity_loader_spec.coffee",
+			"file_size": 556,
+			"file_write_time": 1372327442000000,
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/avocado/.gitignore",
+			"settings":
+			{
+				"buffer_size": 175,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"co",
+				"Coffee: Check Syntax"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/snippets/consolelog.sublime-snippet",
+		"/Users/Ian/development/lp/online/avocado/public/assets/javascripts/spec/components/slider_spec.js",
+		"/Users/Ian/development/lp/online/avocado/vendor/assets/javascripts/jquery.touchwipe.1.1.1.js",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/fixtures/slider.html",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/slider_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/slider.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/load_more.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/Gruntfile.js",
+		"/Users/Ian/development/lp/online/avocado/package.json",
+		"/Users/Ian/development/lp/online/avocado/bower.json",
+		"/Users/Ian/development/lp/online/avocado/.bowerrc",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/core/fonts.coffee.erb",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/core/base.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/core/fonts",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/stack.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/stack_list_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/stack_list.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/load_more_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/public/assets/javascripts/spec/components/availability_info_spec.js",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/availability_info.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/availability_info_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/availability_search.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/availability_search_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/cucumber.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/filter.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/filter_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/meta.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/meta_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/place_list.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/places_list_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/stack_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/stack_intro.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/stack_intro_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/extends/controller.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/extends/controller_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/fixtures/stack.html",
+		"/Users/Ian/development/lp/online/avocado/public/assets/javascripts/spec/components/accordion_spec.js",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/fixtures/stack_intro.html",
+		"/Users/Ian/development/lp/online/avocado/.gitignore",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/analytics/analytics_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/accordion_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/group_toggle_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/components/tabs_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/fixtures/availability_info.html",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/extends/events.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/core/ad_manager.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/datepicker.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/analytics/bucket.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/analytics/analytics.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/helpers/SpecHelper.js",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/components/tabs.js.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/fixtures/controller.html",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/utils/page_state.coffee",
+		"/Users/Ian/development/lp/online/avocado/lib/avocado/version.rb",
+		"/Users/Ian/development/lp/online/avocado/avocado.gemspec",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile.lock",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_stack.html.haml",
+		"/Users/Ian/Dropbox/Repositories/LonelyPlanet/lp-working-directory/UI Tests/Miguel/css/lonely-planet.css",
+		"/Users/Ian/development/lp/online/beaker/public/partials/components.html",
+		"/Users/Ian/development/lp/online/beaker/views/components.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"asset_path",
+			"console",
+			"list",
+			"controller.config.LISTENER",
+			"@config.LISTENER",
+			"stackIntro.config.LISTENER",
+			"@config.LISTENER",
+			"list",
+			"stack.config.list",
+			"config.types",
+			"stack.config.LISTENER",
+			"{ el: '.foo'}",
+			"@config.",
+			"placesList.config.",
+			"meta.config.LISTENER",
+			"@config.",
+			"lm.config.LISTENER",
+			"LISTENER",
+			"@config.LISTENER",
+			"filter.config.",
+			"LISTENER",
+			"@config.",
+			"av.config.LISTENER",
+			"@config.LISTENER",
+			"config",
+			"@LISTENER",
+			"config.LISTENER",
+			"@config.LISTENER",
+			"state",
+			"el: ",
+			".not.siblings())",
+			".hasClass",
+			"describe 'Setup', ->",
+			"enables the availability form",
+			"it 'has an event listener constant', ->",
+			"this",
+			"state",
+			"_clearCards",
+			"clear",
+			"params",
+			"page_offsets",
+			"params",
+			"State",
+			"state",
+			"event",
+			"paths",
+			"getUrl",
+			"set",
+			"getParams",
+			"_getParams"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"describe 'Object', ->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "development/lp/online/avocado/app/assets/javascripts/lib/components/proximity_loader.js.coffee",
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "development/lp/online/avocado/spec/javascripts/fixtures/proximity_loader.html",
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "development/lp/online/avocado/spec/javascripts/lib/components/proximity_loader_spec.coffee",
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "development/lp/online/avocado/.gitignore",
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sta",
+				"app/assets/javascripts/lib/components/stack.js.coffee"
+			],
+			[
+				"co",
+				"app/assets/javascripts/lib/extends/controller.js.coffee"
+			],
+			[
+				"stack",
+				"spec/javascripts/lib/components/stack_spec.coffee"
+			],
+			[
+				"filter",
+				"spec/javascripts/lib/components/filter_spec.coffee"
+			],
+			[
+				"av",
+				"app/assets/javascripts/lib/components/availability_info.js.coffee"
+			],
+			[
+				"a",
+				"spec/javascripts/fixtures/availability_info.html"
+			],
+			[
+				"ava",
+				"spec/javascripts/lib/components/availability_info_spec.coffee"
+			],
+			[
+				"cont",
+				"spec/javascripts/lib/extends/controller_spec.coffee"
+			],
+			[
+				"avia",
+				"app/assets/javascripts/lib/components/availability_search.js.coffee"
+			],
+			[
+				"c",
+				"app/assets/javascripts/lib/extends/controller.js.coffee"
+			],
+			[
+				"admanag",
+				"app/assets/javascripts/lib/core/ad_manager.coffee"
+			],
+			[
+				"avai",
+				"app/assets/javascripts/lib/components/availability_search.js.coffee"
+			],
+			[
+				"cards",
+				"app/views/static/cards.html.haml"
+			],
+			[
+				"stack_it",
+				"app/views/destinations/partials/_stack_items_collection_card.html.haml"
+			],
+			[
+				"comp",
+				"views/components.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"b",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"pers",
+				"/Users/Ian/personal-site.sublime-project"
+			],
+			[
+				"",
+				"/Users/Ian/rizzo.sublime-project"
+			],
+			[
+				"w",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"wa",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"W",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"wal",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"bea",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"be",
+				"/Users/Ian/beaker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true
+}

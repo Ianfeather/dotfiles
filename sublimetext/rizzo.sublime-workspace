@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"performance"
+			],
+			[
+				"and",
+				"andReturn"
+			],
+			[
+				"toH",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"t",
+				"timing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "development/lp/online/rizzo/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2336,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/rizzo/features/global_resource.feature",
+			"settings":
+			{
+				"buffer_size": 2998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/rizzo/app/controllers/global_resources_controller.rb",
+			"settings":
+			{
+				"buffer_size": 570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/rizzo/app/lib/snippet_support.rb",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/rizzo/app/assets/stylesheets/freight.sass",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 307 files for \".disclaimer\"\n\n0 matches across 0 files\n",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "development/lp/online/rizzo/app/helpers/asset_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/rizzo/app/views/layouts/core.html.haml",
+			"settings":
+			{
+				"buffer_size": 1098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/rizzo/app/views/layouts/legacy/snippets/_body_footer.html.haml",
+			"settings":
+			{
+				"buffer_size": 521,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_fonts_js.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_acp_body_header.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/app/helpers/global_resources_helper.rb",
+		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_flamsteed.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_head_js.haml",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_secure_core_legacy.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_secure_core.js.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_core_legacy.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_core.js.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/_head.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/Gemfile",
+		"/Users/Ian/development/lp/online/rizzo/config/application.rb",
+		"/Users/Ian/development/lp/online/rizzo/config/environments/production.rb",
+		"/Users/Ian/development/lp/online/rizzo/config/requirejs.yml",
+		"/Users/Ian/development/lp/online/rizzo/.gitignore",
+		"/Users/Ian/development/lp/online/rizzo/spec/spec_helper.rb",
+		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_flamsteed",
+		"/Users/Ian/development/lp/online/flamsteed/.gitignore",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile.lock",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_stack.html.haml",
+		"/Users/Ian/Dropbox/Repositories/LonelyPlanet/lp-working-directory/UI Tests/Miguel/css/lonely-planet.css",
+		"/Users/Ian/development/lp/online/beaker/public/partials/components.html",
+		"/Users/Ian/development/lp/online/beaker/views/components.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".disclaimer",
+			"disclaimer",
+			"core_navigation_items",
+			"event",
+			"debug",
+			"onload"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "development/lp/online/rizzo/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 2336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "development/lp/online/rizzo/features/global_resource.feature",
+					"settings":
+					{
+						"buffer_size": 2998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "development/lp/online/rizzo/app/controllers/global_resources_controller.rb",
+					"settings":
+					{
+						"buffer_size": 570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "development/lp/online/rizzo/app/lib/snippet_support.rb",
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "development/lp/online/rizzo/app/assets/stylesheets/freight.sass",
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "development/lp/online/rizzo/app/helpers/asset_helper.rb",
+					"settings":
+					{
+						"buffer_size": 1175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "development/lp/online/rizzo/app/views/layouts/core.html.haml",
+					"settings":
+					{
+						"buffer_size": 1098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								591,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "development/lp/online/rizzo/app/views/layouts/legacy/snippets/_body_footer.html.haml",
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"req",
+				"config/requirejs.yml"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"cards",
+				"app/views/static/cards.html.haml"
+			],
+			[
+				"stack_it",
+				"app/views/destinations/partials/_stack_items_collection_card.html.haml"
+			],
+			[
+				"c",
+				"public/partials/components.html"
+			],
+			[
+				"comp",
+				"views/components.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"av",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"avo",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"fla",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"fl",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"f",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"a",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"fa",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"wa",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"b",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"be",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"bea",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"",
+				"/Users/Ian/beaker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true
+}

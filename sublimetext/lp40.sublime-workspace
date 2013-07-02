@@ -1,0 +1,1388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "development/lp/online/lp-40/app/assets/stylesheets/application/foundation_and_overrides.sass",
+			"settings":
+			{
+				"buffer_size": 31078,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 498 files for \"$very-light-blue\"\n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/style_guide.sass:\n    1  $blue: #004d9e\n    2  $light-blue: #1d508d\n    3: $very-light-blue: #bccee3\n    4  $cyan: #91d9e3\n    5  $green: #12dccc\n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/header.sass:\n    7      margin-top: 3px\n    8    a\n    9:     color: $very-light-blue\n   10    a:hover\n   11      color: white\n\n/Users/Ian/development/lp/online/lp-40/log/development.log:\n 49833  Completed 500 Internal Server Error in 1658ms\n 49834  \n 49835: ActionView::Template::Error (Undefined variable: \"$very-light-blue\".\n 49836    (in /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass)):\n 49837      8: \n .....\n 50651  Completed 500 Internal Server Error in 1779ms\n 50652  \n 50653: ActionView::Template::Error (Undefined variable: \"$very-light-blue\".\n 50654    (in /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass)):\n 50655      8: \n\n4 matches across 3 files\n\n\nSearching 498 files for \"freight\"\n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/foundation_and_overrides.sass:\n   27  $body-bg: $primary-bg-color\n   28  $body-font-color: #333\n   29: $body-font-family: \"freight\", \"Helvetica Neue\", arial, sans-serif\n   30  $body-font-weight: 300\n   31  $body-font-size: 0.875em\n   ..\n   96  \n   97  // We use these to control header font styles\n   98: $header-font-family: \"freight\", \"Helvetica Neue\", arial, sans-serif\n   99  $header-font-weight: 300\n  100  // $header-font-style: normal\n\n/Users/Ian/development/lp/online/lp-40/app/views/layouts/application.slim:\n   23        = yield(:sub_header) if content_for?(:sub_header)\n   24  \n   25:     #main.row.copy--freight\n   26        .columns.large-12\n   27          = render 'shared/notifications'\n\n/Users/Ian/development/lp/online/lp-40/log/development.log:\n 6318  WARNING on line 74 of /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass:\n 6319  This selector doesn't have any properties and will not be rendered.\n 6320: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 6321:   The selector \"%freight-book\" was not found.\n 6322    This will be an error in future releases of Sass.\n 6323:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 6324  \n 6325  Compiled application.css  (2292ms)  (pid 61194)\n ....\n 7474    Rendered posts/short_form_texts/_short_form_text.slim (1.2ms)\n 7475    Rendered journey/index.html.erb within layouts/application (953.9ms)\n 7476: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 7477:   The selector \"%freight-book\" was not found.\n 7478    This will be an error in future releases of Sass.\n 7479:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 7480  \n 7481  Compiled application.css  (2123ms)  (pid 61194)\n ....\n 8055    Rendered posts/short_form_texts/_short_form_text.slim (1.1ms)\n 8056    Rendered journey/index.html.erb within layouts/application (956.6ms)\n 8057: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 8058:   The selector \"%freight-book\" was not found.\n 8059    This will be an error in future releases of Sass.\n 8060:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 8061  \n 8062  Compiled application.css  (2186ms)  (pid 61194)\n ....\n 9786    Rendered posts/short_form_texts/_short_form_text.slim (1.1ms)\n 9787    Rendered journey/index.html.erb within layouts/application (996.8ms)\n 9788: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 9789:   The selector \"%freight-book\" was not found.\n 9790    This will be an error in future releases of Sass.\n 9791:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 9792  \n 9793  Compiled application.css  (2219ms)  (pid 61194)\n ....\n 10367    Rendered posts/short_form_texts/_short_form_text.slim (1.2ms)\n 10368    Rendered journey/index.html.erb within layouts/application (980.2ms)\n 10369: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 10370:   The selector \"%freight-book\" was not found.\n 10371    This will be an error in future releases of Sass.\n 10372:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 10373  \n 10374  Compiled application.css  (2218ms)  (pid 61194)\n .....\n 10950  WARNING on line 32 of /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/journey.sass.erb:\n 10951  This selector doesn't have any properties and will not be rendered.\n 10952: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 10953:   The selector \"%freight-book\" was not found.\n 10954    This will be an error in future releases of Sass.\n 10955:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 10956  \n 10957  Compiled application.css  (2166ms)  (pid 61194)\n .....\n 12106    Rendered posts/short_form_texts/_short_form_text.slim (1.0ms)\n 12107    Rendered journey/index.html.erb within layouts/application (969.1ms)\n 12108: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 12109:   The selector \"%freight-book\" was not found.\n 12110    This will be an error in future releases of Sass.\n 12111:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 12112  \n 12113  Compiled application.css  (2453ms)  (pid 61194)\n .....\n 16137    Rendered posts/short_form_texts/_short_form_text.slim (1.0ms)\n 16138    Rendered journey/index.html.erb within layouts/application (940.8ms)\n 16139: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 16140:   The selector \"%freight-book\" was not found.\n 16141    This will be an error in future releases of Sass.\n 16142:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 16143  \n 16144  Compiled application.css  (2056ms)  (pid 61194)\n .....\n 22308    Rendered journey/index.html.erb within layouts/application (921.3ms)\n 22309  Compiled application/foundation_and_overrides.css  (1981ms)  (pid 61194)\n 22310: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 22311:   The selector \"%freight-book\" was not found.\n 22312    This will be an error in future releases of Sass.\n 22313:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 22314  \n 22315  Compiled application.css  (2078ms)  (pid 61194)\n .....\n 23457    Rendered journey/index.html.erb within layouts/application (938.2ms)\n 23458  Compiled application/foundation_and_overrides.css  (1945ms)  (pid 61194)\n 23459: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 23460:   The selector \"%freight-book\" was not found.\n 23461    This will be an error in future releases of Sass.\n 23462:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 23463  \n 23464  Compiled application.css  (1994ms)  (pid 61194)\n .....\n 24034    Rendered posts/short_form_texts/_short_form_text.slim (1.3ms)\n 24035    Rendered journey/index.html.erb within layouts/application (959.6ms)\n 24036: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 24037:   The selector \"%freight-book\" was not found.\n 24038    This will be an error in future releases of Sass.\n 24039:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 24040  \n 24041  Compiled application.css  (2136ms)  (pid 61194)\n .....\n 24611    Rendered posts/short_form_texts/_short_form_text.slim (1.4ms)\n 24612    Rendered journey/index.html.erb within layouts/application (1530.1ms)\n 24613: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 24614:   The selector \"%freight-book\" was not found.\n 24615    This will be an error in future releases of Sass.\n 24616:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 24617  \n 24618  Compiled application.css  (3476ms)  (pid 61194)\n .....\n 25188    Rendered posts/short_form_texts/_short_form_text.slim (1.5ms)\n 25189    Rendered journey/index.html.erb within layouts/application (967.5ms)\n 25190: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 25191:   The selector \"%freight-book\" was not found.\n 25192    This will be an error in future releases of Sass.\n 25193:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 25194  \n 25195  Compiled application.css  (2243ms)  (pid 61194)\n .....\n 25765    Rendered posts/short_form_texts/_short_form_text.slim (1.2ms)\n 25766    Rendered journey/index.html.erb within layouts/application (1006.3ms)\n 25767: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 25768:   The selector \"%freight-book\" was not found.\n 25769    This will be an error in future releases of Sass.\n 25770:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 25771  \n 25772  Compiled application.css  (2178ms)  (pid 61194)\n .....\n 27484    Rendered posts/short_form_texts/_short_form_text.slim (1.2ms)\n 27485    Rendered journey/index.html.erb within layouts/application (944.5ms)\n 27486: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 27487:   The selector \"%freight-book\" was not found.\n 27488    This will be an error in future releases of Sass.\n 27489:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 27490  \n 27491  Compiled application.css  (2375ms)  (pid 61194)\n .....\n 28063  WARNING on line 77 of /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass:\n 28064  This selector doesn't have any properties and will not be rendered.\n 28065: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 28066:   The selector \"%freight-book\" was not found.\n 28067    This will be an error in future releases of Sass.\n 28068:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 28069  \n 28070  Compiled application.css  (2177ms)  (pid 61194)\n .....\n 28642  WARNING on line 79 of /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass:\n 28643  This selector doesn't have any properties and will not be rendered.\n 28644: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 28645:   The selector \"%freight-book\" was not found.\n 28646    This will be an error in future releases of Sass.\n 28647:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 28648  \n 28649  Compiled application.css  (2156ms)  (pid 61194)\n .....\n 29422    Rendered posts/short_form_texts/_short_form_text.slim (3.5ms)\n 29423    Rendered journey/index.html.erb within layouts/application (3590.9ms)\n 29424: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 29425:   The selector \"%freight-book\" was not found.\n 29426    This will be an error in future releases of Sass.\n 29427:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 29428  \n 29429  Compiled application.css  (7303ms)  (pid 61194)\n .....\n 44370    Rendered posts/short_form_texts/_short_form_text.slim (0.9ms)\n 44371    Rendered journey/index.html.erb within layouts/application (1304.0ms)\n 44372: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 44373:   The selector \"%freight-book\" was not found.\n 44374    This will be an error in future releases of Sass.\n 44375:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 44376  \n 44377  Compiled application.css  (2849ms)  (pid 70362)\n .....\n 44992  WARNING on line 84 of /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass:\n 44993  This selector doesn't have any properties and will not be rendered.\n 44994: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 44995:   The selector \"%freight-book\" was not found.\n 44996    This will be an error in future releases of Sass.\n 44997:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 44998  \n 44999  Compiled application.css  (2472ms)  (pid 70362)\n .....\n 46840    Rendered posts/short_form_texts/_short_form_text.slim (1.0ms)\n 46841    Rendered journey/index.html.erb within layouts/application (1140.1ms)\n 46842: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 46843:   The selector \"%freight-book\" was not found.\n 46844    This will be an error in future releases of Sass.\n 46845:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 46846  \n 46847  Compiled application.css  (2675ms)  (pid 70362)\n .....\n 48624  WARNING on line 86 of /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass:\n 48625  This selector doesn't have any properties and will not be rendered.\n 48626: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 48627:   The selector \"%freight-book\" was not found.\n 48628    This will be an error in future releases of Sass.\n 48629:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 48630  \n 48631  Compiled application.css  (2381ms)  (pid 70362)\n .....\n 51058  WARNING on line 85 of /Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application.sass:\n 51059  This selector doesn't have any properties and will not be rendered.\n 51060: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 51061:   The selector \"%freight-book\" was not found.\n 51062    This will be an error in future releases of Sass.\n 51063:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 51064  \n 51065  Compiled application.css  (2281ms)  (pid 70362)\n .....\n 51855    Rendered journey/index.html.erb within layouts/application (1070.7ms)\n 51856  Compiled application/foundation_and_overrides.css  (2237ms)  (pid 70362)\n 51857: WARNING on line 69 of /Users/Ian/development/lp/online/beaker/app/assets/stylesheets/_common-ui/cards/_card_badges.sass: \"%card-icon:before\" failed to @extend \"%freight-book\".\n 51858:   The selector \"%freight-book\" was not found.\n 51859    This will be an error in future releases of Sass.\n 51860:   Use \"@extend %freight-book !optional\" if the extend should be able to fail.\n 51861  \n 51862  Compiled application.css  (2188ms)  (pid 70362)\n\n75 matches across 3 files\n\n\nSearching 498 files for \"reveal-modal\"\n\n/Users/Ian/development/lp/online/lp-40/app/assets/javascripts/detail-modal.coffee:\n   15      $(id).foundation('reveal', 'open')\n   16        .load(href + ' article', ->\n   17:         $(this).append('<a class=\"close-reveal-modal\">&#215;</a>')\n   18          FB.XFBML.parse($(id).get(0));\n   19          $(LPForty.Modal).trigger('modal::opened')\n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/admin/foundation_and_overrides.sass:\n  780  \n  781  // We use these to control the style of the modal itself.\n  782: // $reveal-modal-bg: #fff\n  783  // $reveal-position-top: 50px\n  784  // $reveal-default-width: 80%\n  785: // $reveal-modal-padding: emCalc(20px)\n  786  // $reveal-box-shadow: 0 0 10px rgba(#000,.4)\n  787  \n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/foundation_and_overrides.sass:\n  789  \n  790  // We use these to control the style of the modal itself.\n  791: // $reveal-modal-bg: #fff\n  792  // $reveal-position-top: 50px\n  793  // $reveal-default-width: 80%\n  794: $reveal-modal-padding: emCalc(10px)\n  795  $reveal-box-shadow: 0 0 10px rgba(#000, .2)\n  796  \n\n/Users/Ian/development/lp/online/lp-40/app/views/journey/about.slim:\n   32              = link_to t(:get_email_updates), new_mailing_path, class: 'button radius', 'data-reveal-id' => 'mailing-modal'\n   33  \n   34:   #preview-video-modal.reveal-modal.large\n   35      .flex-video.widescreen.vimeo\n   36       script type=\"text/javascript\" src=\"http://players.mediasilo.com/swfobject.js\"\n\n/Users/Ian/development/lp/online/lp-40/app/views/layouts/application.slim:\n   33        = render 'layouts/core/snippets/cs_body_footer'\n   34  \n   35:     #ie-warning.reveal-modal.large\n   36        = image_tag 'confused.png'\n   37        h2 Just a Heads Up.\n   ..\n   44          li = link_to image_tag('browsers/ie.png'), 'http://windows.microsoft.com/en-us/windows-8/internet-explorer'\n   45  \n   46:     #card-detail-modal.reveal-modal.large\n   47:     #mailing-modal.reveal-modal.small\n   48        = render template: 'mailings/new'\n   49  \n\n9 matches across 5 files\n\n\nSearching 508 files for \"#featured-video-wrapper\"\n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/journey.sass.erb:\n  200    position: relative\n  201  \n  202: #featured-video-wrapper\n  203    +border-top-left-radius(4px)\n  204    +border-top-right-radius(4px)\n  ...\n  299      display: none\n  300  \n  301:   #featured-video-wrapper\n  302      margin-top: 0\n  303    #featured-video\n\n2 matches in 1 file\n\n\nSearching 546 files for \"sans\"\n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/admin/foundation_and_overrides.sass:\n   19  // $body-bg: #fff\n   20  // $body-font-color: #222\n   21: // $body-font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif\n   22  // $body-font-weight: normal\n   23  // $body-font-style: normal\n   ..\n   87  \n   88  // We use these to control header font styles\n   89: // $header-font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif\n   90  // $header-font-weight: bold\n   91  // $header-font-style: normal\n\n/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/foundation_and_overrides.sass:\n   24  $body-bg: $primary-bg-color\n   25  $body-font-color: #333\n   26: $body-font-family: \"Helvetica Neue\", arial, sans-serif\n   27  $body-font-weight: 300\n   28  $body-font-style: normal\n   ..\n   92  \n   93  // We use these to control header font styles\n   94: $header-font-family: \"Helvetica Neue\", arial, sans-serif\n   95  $header-font-weight: 300\n   96  // $header-font-style: normal\n\n/Users/Ian/development/lp/online/lp-40/app/views/layouts/application.slim:\n    8  \n    9      script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n   10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n   11      = stylesheet_link_tag \"application\", :media => \"all\"\n   12  \n\n/Users/Ian/development/lp/online/lp-40/log/development.log:\n 29225      8: \n 29226      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 29227:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 29228      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 29229      12: \n .....\n 48020      8: \n 48021      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 48022:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 48023      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 48024      12: \n .....\n 48224      8: \n 48225      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 48226:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 48227      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 48228      12: \n .....\n 48426      8: \n 48427      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 48428:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 48429      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 48430      12: \n .....\n 49225      8: \n 49226      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 49227:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 49228      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 49229      12: \n .....\n 49429      8: \n 49430      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 49431:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 49432      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 49433      12: \n .....\n 49633      8: \n 49634      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 49635:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 49636      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 49637      12: \n .....\n 49837      8: \n 49838      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 49839:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 49840      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 49841      12: \n .....\n 50043      8: \n 50044      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 50045:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 50046      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 50047      12: \n .....\n 50249      8: \n 50250      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 50251:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 50252      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 50253      12: \n .....\n 50451      8: \n 50452      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 50453:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 50454      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 50455      12: \n .....\n 50655      8: \n 50656      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 50657:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 50658      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 50659      12: \n .....\n 50858      8: \n 50859      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 50860:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 50861      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 50862      12: \n .....\n 51658      8: \n 51659      9:     script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"\n 51660:     10:     link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'\n 51661      11:     = stylesheet_link_tag \"application\", :media => \"all\"\n 51662      12: \n\n/Users/Ian/development/lp/online/lp-40/public/404.html:\n   10        a.go-back {color: white;display: block;font-size: 13px;line-height: 14px;position: absolute;right: 15px;top: 18px;}\n   11        section#main {margin: 8em auto 0 auto;width: 720px;text-align: center;}\n   12:       section#main h1 {color: #3b444f;font-family: bentonsansregular, 'Helvetica Neue', Arial, sans-serif;font-size: 40px;position: relative;}\n   13        section#main p {color: #67747c;font-size: 16px;font-weight: lighter;position: relative;padding: 1.5em 0;}\n   14        .btn--green {border-radius: 4px;display: inline-block;font-weight: bold;font-size: 16px;padding: 15px 55px;-webkit-border-radius: 4px;-moz-border-radius: 4px;}\n   ..\n   16        .icon {margin: 0 auto;width: 100px;}\n   17        .puzzled-dude {height:180px;font-size:180px;position: relative;}\n   18:       .puzzled-dude:before {position: absolute;top: 0;font-family: bentonsansregular, 'Helvetica Neue', Arial, sans-serif;font-size: 180px;display: block;content: '\\e089';}\n   19      </style>\n   20    </head>\n\n/Users/Ian/development/lp/online/lp-40/public/422.html:\n    4    <title>The change you wanted was rejected (422)</title>\n    5    <style type=\"text/css\">\n    6:     body { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n    7      div.dialog {\n    8        width: 25em;\n\n/Users/Ian/development/lp/online/lp-40/public/500.html:\n    4    <title>We're sorry, but something went wrong (500)</title>\n    5    <style type=\"text/css\">\n    6:     body { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n    7      div.dialog {\n    8        width: 25em;\n\n25 matches across 7 files\n\n\nSearching 645 files for \"feed_item_description\"\n\n/Users/Ian/development/lp/online/lp-40/app/views/journey/index.html.erb:\n   43              <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n   44              <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n   45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n   46              <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.nil? %>\n   47            </div>\n\n/Users/Ian/development/lp/online/lp-40/log/development.log:\n  283      43:             <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n  284      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n  285:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n  286      46:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.empty? %>\n  287      47:           </div>\n  ...\n  312      43:             <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n  313      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n  314:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n  315      46:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.empty? %>\n  316      47:           </div>\n  ...\n  855      43:             <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n  856      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n  857:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n  858      46:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.empty? %>\n  859      47:           </div>\n  ...\n  881  ActionView::Template::Error (undefined method `empty?' for nil:NilClass):\n  882      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n  883:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n  884      46:             throw @feed.current_location\n  885      47:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.empty? %>\n  ...\n  909      43:             <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n  910      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n  911:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n  912      46:             <%= throw @feed.current_location %>\n  913      47:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.empty? %>\n  ...\n  937      43:             <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n  938      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n  939:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n  940      46:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.any? %>\n  941      47:           </div>\n  ...\n 57385      43:             <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n 57386      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n 57387:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n 57388      46:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.empty? %>\n 57389      47:           </div>\n .....\n 58020      43:             <h2 class=\"feed_item_location\"><%= @feed.current_location %></h2>\n 58021      44:             <h2 class=\"feed_item_date subheader\"><%= @feed.current_date.strftime('%B %d, %Y') %></h2>\n 58022:     45:             <p class=\"feed_item_description\"><%= @feed.current_location.description %></p>\n 58023      46:             <%= link_to t(:learn_more), @feed.current_location.link, class: 'button small learn-more' unless @feed.current_location.link.empty? %>\n 58024      47:           </div>\n\n9 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 32049,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/layouts/application.slim",
+			"settings":
+			{
+				"buffer_size": 2068,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/journey/about.slim",
+			"settings":
+			{
+				"buffer_size": 2058,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/assets/stylesheets/application/header.sass",
+			"settings":
+			{
+				"buffer_size": 525,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/assets/stylesheets/application/journey.sass.erb",
+			"settings":
+			{
+				"buffer_size": 4728,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/assets/stylesheets/application.sass",
+			"settings":
+			{
+				"buffer_size": 2139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/posts/videos/_video.slim",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/posts/images/_image.slim",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/shared/_header.slim",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/posts/long_form_texts/show.slim",
+			"settings":
+			{
+				"buffer_size": 1199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/.rvmrc",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/journey/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 2813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1666,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/db/seeds.rb",
+			"settings":
+			{
+				"buffer_size": 2933,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/lp-40/app/views/posts/long_form_texts/_long_form_text.slim",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"cof",
+				"Coffee: Check Syntax"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ian/development/lp/online/lp-40/app/views/posts/short_form_texts/_short_form_text.slim",
+		"/Users/Ian/development/lp/online/lp-40/app/views/layouts/application.slim",
+		"/Users/Ian/development/lp/online/lp-40/app/views/posts/long_form_texts/_long_form_text.slim",
+		"/Users/Ian/development/lp/online/lp-40/app/views/journey/about.slim",
+		"/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/about.sass",
+		"/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/admin/foundation_and_overrides.sass",
+		"/Users/Ian/development/lp/online/lp-40/app/assets/stylesheets/application/image.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/models/place.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_nearby_places.feature",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/lodging_list_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_descendants.feature",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/analytics/analytics_lodgings.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/analytics/analytics_lodging.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/lodging.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/search.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/stack.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile.lock",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_lodgings.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/views/static/cards.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_collection_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/models/stacks/lodgings.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/routes.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/es.development.yml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/config/requirejs.yml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_stack.html.haml",
+		"/Users/Ian/Dropbox/Repositories/LonelyPlanet/lp-working-directory/UI Tests/Miguel/css/lonely-planet.css",
+		"/Users/Ian/development/lp/online/beaker/public/partials/components.html",
+		"/Users/Ian/development/lp/online/beaker/views/components.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"feed_item_description",
+			"sans",
+			"#featured-video-wrapper",
+			"reveal-modal",
+			"freight",
+			"$very-light-blue",
+			"$base-font-size",
+			"simple_format",
+			"large-10",
+			"follow",
+			"html",
+			"$body-font-color",
+			"$small-card-image-height",
+			"body",
+			"open sans",
+			"def image_tag",
+			"image_tag",
+			"card",
+			"ge should have the following query ",
+			"js-stack-card",
+			"js-stack-card-filter",
+			"args",
+			"milisecondsToDays",
+			"normalizeDate",
+			"totalResults",
+			"searchScope"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "development/lp/online/lp-40/app/assets/stylesheets/application/foundation_and_overrides.sass",
+					"settings":
+					{
+						"buffer_size": 31078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 32049,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										181,
+										197
+									],
+									[
+										396,
+										412
+									],
+									[
+										636,
+										652
+									],
+									[
+										895,
+										911
+									],
+									[
+										1286,
+										1293
+									],
+									[
+										1490,
+										1497
+									],
+									[
+										1779,
+										1786
+									],
+									[
+										2278,
+										2285
+									],
+									[
+										2317,
+										2324
+									],
+									[
+										2428,
+										2435
+									],
+									[
+										2876,
+										2883
+									],
+									[
+										2915,
+										2922
+									],
+									[
+										3026,
+										3033
+									],
+									[
+										3474,
+										3481
+									],
+									[
+										3513,
+										3520
+									],
+									[
+										3624,
+										3631
+									],
+									[
+										4072,
+										4079
+									],
+									[
+										4111,
+										4118
+									],
+									[
+										4222,
+										4229
+									],
+									[
+										4673,
+										4680
+									],
+									[
+										4713,
+										4720
+									],
+									[
+										4826,
+										4833
+									],
+									[
+										5327,
+										5334
+									],
+									[
+										5367,
+										5374
+									],
+									[
+										5480,
+										5487
+									],
+									[
+										5934,
+										5941
+									],
+									[
+										5974,
+										5981
+									],
+									[
+										6087,
+										6094
+									],
+									[
+										6541,
+										6548
+									],
+									[
+										6581,
+										6588
+									],
+									[
+										6694,
+										6701
+									],
+									[
+										7157,
+										7164
+									],
+									[
+										7197,
+										7204
+									],
+									[
+										7310,
+										7317
+									],
+									[
+										7773,
+										7780
+									],
+									[
+										7813,
+										7820
+									],
+									[
+										7926,
+										7933
+									],
+									[
+										8380,
+										8387
+									],
+									[
+										8420,
+										8427
+									],
+									[
+										8533,
+										8540
+									],
+									[
+										8988,
+										8995
+									],
+									[
+										9028,
+										9035
+									],
+									[
+										9141,
+										9148
+									],
+									[
+										9595,
+										9602
+									],
+									[
+										9635,
+										9642
+									],
+									[
+										9748,
+										9755
+									],
+									[
+										10203,
+										10210
+									],
+									[
+										10243,
+										10250
+									],
+									[
+										10356,
+										10363
+									],
+									[
+										10810,
+										10817
+									],
+									[
+										10850,
+										10857
+									],
+									[
+										10963,
+										10970
+									],
+									[
+										11452,
+										11459
+									],
+									[
+										11492,
+										11499
+									],
+									[
+										11605,
+										11612
+									],
+									[
+										12094,
+										12101
+									],
+									[
+										12134,
+										12141
+									],
+									[
+										12247,
+										12254
+									],
+									[
+										12702,
+										12709
+									],
+									[
+										12742,
+										12749
+									],
+									[
+										12855,
+										12862
+									],
+									[
+										13310,
+										13317
+									],
+									[
+										13350,
+										13357
+									],
+									[
+										13463,
+										13470
+									],
+									[
+										13952,
+										13959
+									],
+									[
+										13992,
+										13999
+									],
+									[
+										14105,
+										14112
+									],
+									[
+										14560,
+										14567
+									],
+									[
+										14600,
+										14607
+									],
+									[
+										14713,
+										14720
+									],
+									[
+										15202,
+										15209
+									],
+									[
+										15242,
+										15249
+									],
+									[
+										15355,
+										15362
+									],
+									[
+										15844,
+										15851
+									],
+									[
+										15884,
+										15891
+									],
+									[
+										15997,
+										16004
+									],
+									[
+										16461,
+										16468
+									],
+									[
+										16501,
+										16508
+									],
+									[
+										16614,
+										16621
+									],
+									[
+										17027,
+										17039
+									],
+									[
+										17340,
+										17352
+									],
+									[
+										17447,
+										17459
+									],
+									[
+										17733,
+										17745
+									],
+									[
+										17837,
+										17849
+									],
+									[
+										18169,
+										18181
+									],
+									[
+										18486,
+										18498
+									],
+									[
+										18745,
+										18757
+									],
+									[
+										18790,
+										18802
+									],
+									[
+										19078,
+										19101
+									],
+									[
+										19227,
+										19250
+									],
+									[
+										19591,
+										19595
+									],
+									[
+										19820,
+										19824
+									],
+									[
+										20126,
+										20130
+									],
+									[
+										20319,
+										20323
+									],
+									[
+										20635,
+										20639
+									],
+									[
+										21004,
+										21008
+									],
+									[
+										21337,
+										21341
+									],
+									[
+										21670,
+										21674
+									],
+									[
+										22003,
+										22007
+									],
+									[
+										22336,
+										22340
+									],
+									[
+										22669,
+										22673
+									],
+									[
+										23002,
+										23006
+									],
+									[
+										23335,
+										23339
+									],
+									[
+										23668,
+										23672
+									],
+									[
+										24001,
+										24005
+									],
+									[
+										24334,
+										24338
+									],
+									[
+										24667,
+										24671
+									],
+									[
+										25000,
+										25004
+									],
+									[
+										25333,
+										25337
+									],
+									[
+										25809,
+										25813
+									],
+									[
+										25847,
+										25851
+									],
+									[
+										26401,
+										26405
+									],
+									[
+										26439,
+										26443
+									],
+									[
+										26788,
+										26792
+									],
+									[
+										27105,
+										27109
+									],
+									[
+										27543,
+										27564
+									],
+									[
+										28096,
+										28117
+									],
+									[
+										28612,
+										28633
+									],
+									[
+										29128,
+										29149
+									],
+									[
+										29632,
+										29653
+									],
+									[
+										30172,
+										30193
+									],
+									[
+										30719,
+										30740
+									],
+									[
+										31236,
+										31257
+									],
+									[
+										31758,
+										31779
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								27556,
+								27556
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 6,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10574.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "development/lp/online/lp-40/app/views/layouts/application.slim",
+					"settings":
+					{
+						"buffer_size": 2068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "development/lp/online/lp-40/app/views/journey/about.slim",
+					"settings":
+					{
+						"buffer_size": 2058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1372,
+								1372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "development/lp/online/lp-40/app/assets/stylesheets/application/header.sass",
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "development/lp/online/lp-40/app/assets/stylesheets/application/journey.sass.erb",
+					"settings":
+					{
+						"buffer_size": 4728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								793,
+								793
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 542.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "development/lp/online/lp-40/app/assets/stylesheets/application.sass",
+					"settings":
+					{
+						"buffer_size": 2139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1359,
+								1359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "development/lp/online/lp-40/app/views/posts/videos/_video.slim",
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "development/lp/online/lp-40/app/views/posts/images/_image.slim",
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "development/lp/online/lp-40/app/views/shared/_header.slim",
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "development/lp/online/lp-40/app/views/posts/long_form_texts/show.slim",
+					"settings":
+					{
+						"buffer_size": 1199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1158,
+								1158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "development/lp/online/lp-40/.rvmrc",
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "development/lp/online/lp-40/app/views/journey/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 2813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1942,
+								1942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 509.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "development/lp/online/lp-40/Gemfile",
+					"settings":
+					{
+						"buffer_size": 1666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 546.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "development/lp/online/lp-40/db/seeds.rb",
+					"settings":
+					{
+						"buffer_size": 2933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2933,
+								2933
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 271.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "development/lp/online/lp-40/app/views/posts/long_form_texts/_long_form_text.slim",
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"app/views/journey/index.html.erb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"in",
+				"app/views/journey/index.html.erb"
+			],
+			[
+				"index",
+				"app/views/journey/index.html.erb"
+			],
+			[
+				"lodging_list_wi",
+				"features/lodging_list_with_nearby_places.feature"
+			],
+			[
+				"lod",
+				"features/lodging_list_nearby.feature"
+			],
+			[
+				"lodging_li",
+				"features/step_definitions/lodging_list_steps.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"cards",
+				"app/views/static/cards.html.haml"
+			],
+			[
+				"stack_it",
+				"app/views/destinations/partials/_stack_items_collection_card.html.haml"
+			],
+			[
+				"c",
+				"public/partials/components.html"
+			],
+			[
+				"comp",
+				"views/components.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"pers",
+				"/Users/Ian/personal-site.sublime-project"
+			],
+			[
+				"a",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"A",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"fo",
+				"/Users/Ian/Dropbox/fonts.sublime-project"
+			],
+			[
+				"bea",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"b",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"be",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"",
+				"/Users/Ian/beaker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,15 @@
+{
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".git"
+	],
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scrollPastEnd": true,
+	"tabSize": 2,
+	"translateTabsToSpaces": true
+}
