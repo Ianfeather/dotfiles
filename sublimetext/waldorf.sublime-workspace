@@ -8,98 +8,52 @@
 	"buffers":
 	[
 		{
-			"file": "development/lp/online/waldorf/app/assets/javascripts/lib/lodgings.js.coffee",
+			"file": "development/lp/online/waldorf/app/views/tips_and_articles/show.html.haml",
 			"settings":
 			{
-				"buffer_size": 1552,
+				"buffer_size": 1654,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "development/lp/online/waldorf/app/helpers/nav_item_helper.rb",
+			"contents": "Searching 774 files for \"background\"\n\n/Users/Ian/development/lp/online/waldorf/README.md:\n  106      \n  107  2) To work around https://github.com/cucumber/cucumber/issues/52,\n  108: cucumber has been monkey-patched to prevent background steps being\n  109: visited at the start of a feature. The consequence is that background\n  110  steps are not echoed.\n  111      \n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/application.sass:\n    8  $is-ie: false\n    9  \n   10: $background: #eef1f3\n   11  $soft-white: #f3f7f9\n   12  // temp\n   ..\n   20  $form-body: #3b444f\n   21  $form-input: #f5f9fb\n   22: $form-background: #fff\n   23  \n   24  // ----------------------------------------------------------------------------\n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/layout/_details.sass:\n   60  \n   61  .nearby-list__inner\n   62:   background-color: $booking-step-background\n   63  \n   64    padding: 10px 10px 0 10px\n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_alternative_properties.sass:\n    5  .group--highlight\n    6    padding: 20px\n    7:   background: #edf6fb\n    8    border-top: 10px solid white\n    9    border-bottom: 3px solid white\n   ..\n   23    width: 100%\n   24    height: 80px\n   25:   background: white\n   26    padding: 0\n   27  \n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_availability.sass:\n    4  \n    5  .card--availability\n    6:   background-color: white\n    7    color: $body\n    8    height: 380px\n    .\n   11  .card--availability  \n   12    .dropdown__value\n   13:     background-color: $soft-white\n   14      color: $body\n   15      font-size: 15px\n   ..\n  108  .availability__input--dates\n  109    position: relative\n  110:   background-color: $soft-white\n  111    +border-radius(4)\n  112    &:after\n  ...\n  122  .availability__input\n  123    +font-size(15)\n  124:   background: transparent\n  125    color: $body\n  126    cursor: pointer\n  ...\n  255  .availability__submit\n  256    width: 100%\n  257:   background-color: $yella\n  258    padding: 10px\n  259    cursor: pointer\n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_buttons.sass:\n    8    @extend %base-button\n    9    @extend %smooth-text\n   10:   background: white\n   11    color: $body\n   12    cursor: pointer\n   ..\n   14    padding: 10px 12px\n   15    &.disabled\n   16:     background-color: $subdued\n   17      &:hover\n   18:       background-color: $subdued  \n   19  \n   20  .full-width\n   ..\n   23  \n   24  .btn--load\n   25:   background-color: $body\n   26    color: white\n   27    &:hover\n   28:     background: $body-highlight\n   29    &.disabled\n   30      color: $body\n   31      \n   32  .btn--action\n   33:   background-color: $green\n   34    color: white\n   35    &:hover\n   36:     background-color: $green-highlight\n   37  \n   38  .btn--submit\n   39:   background-color: $yella \n   40    color: $body\n   41    &:hover\n   42:     background-color: $yella-highlight\n   43  \n   44  .btn--function\n   45:   background-color: $lpblue\n   46    color: white\n   47    &:hover\n   48:     background-color: $lpblue-highlight\n   49  \n   50  \n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_errors.sass:\n   12    @extend %central-align\n   13    @extend %error-copy\n   14:   background-color: #e0e7ea  \n   15    line-height: 1.5em\n   16  \n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_intro_card.sass:\n   43    @extend %regular-type-size\n   44    box-shadow: -20px 0 10px 5px white\n   45:   background: #fff\n   46    color: $header-blue\n   47    cursor: pointer\n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass:\n    7    @extend %smooth-text\n    8    position: relative\n    9:   background-color: $secondary-content-bg\n   10    .btn--bookable\n   11      padding: 12px 0\n   ..\n   55    border-bottom: 1px solid $border-on-blue\n   56    height: 360px\n   57:   background-color: $booking-step-background\n   58  \n   59  .booking-step--one\n   ..\n  116    @extend %clearfix\n  117    @extend %irregular-type\n  118:   background: #f6fafd\n  119    border-bottom: 1px solid $ruled-separator\n  120    overflow: hidden\n  ...\n  133      +border-radius-each(0, 0, 4, 4)\n  134    &:hover\n  135:     background-color: $bookable-room-hover\n  136    &.is-open\n  137:     background-color: $bookable-room-hover\n  138  \n  139  .room__inner\n  ...\n  181  \n  182  .room--open\n  183:   background-color: #edf6fb\n  184    border-top: 4px solid white\n  185    border-bottom: 4px solid white\n  ...\n  194  .room__img--thumb\n  195    position: relative\n  196:   background-color: #d2dfe8\n  197    color: white\n  198    float: left\n  ...\n  209  .room__img--default\n  210    position: relative\n  211:   background: #d2dfe8\n  212    float: left\n  213    height: 55px\n  ...\n  286    line-height: 1.2\n  287    .btn--read-more\n  288:     background-color: #f9fdfe\n  289      display: block\n  290      margin: 20px 0 5px 0\n  ...\n  310    vertical-align: middle\n  311    display: inline-block\n  312:   background-image: image_url('hh_providers.png')\n  313  \n  314  .provider__logo--hostelworld\n  315:   background-position: 0 -39px\n  316  .provider__logo--expedia\n  317:   background-position: 0 -5px\n  318    \n  319  \n  ...\n  427  .policies\n  428    @extend %four-pixel-rounded\n  429:   background-color: #f9fdfe\n  430    border: 1px solid #d0d7d8\n  431    color: #7f9394\n  ...\n  433  \n  434  .policies__handler\n  435:   background-color: #f9fdfe\n  436    color: #7f9394\n  437    cursor: pointer\n\n/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_search.sass:\n   37    @extend %no-border\n   38    +border-radius-each(4,4,4,4)\n   39:   background: transparent\n   40    cursor: pointer\n   41    height: 36px\n   ..\n   68    +border-radius-each(0,0,4,4)\n   69    +box-shadow(1, 1, 5, 0, rgba(0,0,0,0.1))\n   70:   background-color: white\n   71    position: absolute\n   72    width: 250px  \n   ..\n   77    li\n   78      &.active, &:hover\n   79:       background-color: #0077cc\n   80        a\n   81          color: #fff!important\n\n/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_detail/_gallery.html.haml:\n    6  \n    7    %div{:class=>\"gallery__fig#{0} js-open-gallery\", :data=>{:index=>0}}\n    8:     %span{:style=>\"background-image: url(#{presenter[:default_image][:src]});\"}\n    9  \n   10    - 2.times do |t|\n   11      - if presenter[:images][t]\n   12        %div{:class=>\"gallery__fig#{t+1} js-open-gallery\", :data=>{:index=>t+1}}\n   13:         %span{:style=>\"background-image: url(#{presenter[:images][t][:src]});\"}\n   14  \n   15  - configure_js('lodging', {:images => all_images(presenter)})\n\n/Users/Ian/development/lp/online/waldorf/config/redis.conf:\n  279  #\n  280  # IMPORTANT: Check the BGREWRITEAOF to check how to rewrite the append\n  281: # log file in background when it gets too big.\n  282  \n  283  appendonly no\n  ...\n  310  # appendfsync no\n  311  \n  312: # When the AOF fsync policy is set to always or everysec, and a background\n  313: # saving process (a background save or AOF log background rewriting) is\n  314  # performing a lot of I/O against the disk, in some Linux configurations\n  315  # Redis may block too long on the fsync() call. Note that there is no fix for\n\n/Users/Ian/development/lp/online/waldorf/config/redis.conf.example:\n  279  #\n  280  # IMPORTANT: Check the BGREWRITEAOF to check how to rewrite the append\n  281: # log file in background when it gets too big.\n  282  \n  283  appendonly no\n  ...\n  310  # appendfsync no\n  311  \n  312: # When the AOF fsync policy is set to always or everysec, and a background\n  313: # saving process (a background save or AOF log background rewriting) is\n  314  # performing a lot of I/O against the disk, in some Linux configurations\n  315  # Redis may block too long on the fsync() call. Note that there is no fix for\n\n/Users/Ian/development/lp/online/waldorf/features/available_rooms_alternatives.feature:\n    4    I want to see alternative hotles if the current lodging does not have available rooms\n    5  \n    6:   Background:\n    7      Given 5 bookable \"Expedia\" lodgings in \"Ho Chi Minh City\"\n    8      And expedia has no available rooms\n\n/Users/Ian/development/lp/online/waldorf/features/available_rooms_expedia.feature:\n    4    I want to see rooms available in a given lodging\n    5    \n    6:   Background:\n    7      Given a bookable \"Expedia\" lodging\n    8    \n\n/Users/Ian/development/lp/online/waldorf/features/available_rooms_hostelworld.feature:\n    4    I want to see the different types of bed available and their price in a given hostelworld lodging\n    5    \n    6:   Background:\n    7      Given a bookable \"hostelworld\" lodging\n    8  \n\n/Users/Ian/development/lp/online/waldorf/features/carry_dates_from_availability_list.feature:\n    4    I want to be able to see available rooms when I click through from a list of available lodgings\n    5  \n    6:   Background:\n    7      Given a place called Ho Chi Minh City\n    8  \n\n/Users/Ian/development/lp/online/waldorf/features/currencies.feature:\n    4    I want to be able see the lodgings' price in the currency I choose\n    5  \n    6:   Background:\n    7      Given there are 5 lodgings with available prices in \"Ho Chi Minh City\"\n    8  \n\n/Users/Ian/development/lp/online/waldorf/features/destinations_404_page.feature:\n    1  Feature: Traveller views helpful 404 page\n    2  \n    3:   Background:\n    4      Given there are alternative destinations\n    5  \n\n/Users/Ian/development/lp/online/waldorf/features/feeler_gauge.feature:\n    5    I want push the live site through a test service and report on JS and CSS errors\n    6    \n    7:   Background:\n    8      Given I am using \"Browsera\" as my feeler gauge and the API key is set in as an environment variable \n    9      \n\n/Users/Ian/development/lp/online/waldorf/features/helpful_404_page.feature:\n    4    I want to display possible alternative destinations when the chosen one is not recognised\n    5  \n    6:   Background:\n    7      Given the following cities exist in \"Spain\"\n    8        | city            |          breadcrumb                         | slug            |\n\n/Users/Ian/development/lp/online/waldorf/features/lodging_availability_filter.feature:\n    5    I only want to find availability on a filtered set of lodgings\n    6  \n    7:   Background:\n    8      Given a place called Ho Chi Minh City\n    9  \n\n/Users/Ian/development/lp/online/waldorf/features/lodging_list.feature:\n    4    I want to be able see a list of suitable lodgings\n    5  \n    6:   Background:\n    7  \n    8    Scenario: I see the links to lodgings' detail page on the list page\n\n/Users/Ian/development/lp/online/waldorf/features/lodging_list_available.feature:\n    5    I want to be able see a list of available lodgings for a specific period\n    6  \n    7:   Background:\n    8      Given a place called Ho Chi Minh City\n    9  \n\n/Users/Ian/development/lp/online/waldorf/features/lodging_list_nearby.feature:\n    4    I want to be able see a list of nearby lodgings for a location, when there are few lodgings in that location\n    5  \n    6:   Background:\n    7      Given there is a place called \"Ho Chi Minh City\" with coordinates \"10.7806\", \"106.6649\" and area \"217395050.406914\"\n    8      And 3 hotels exist at 1 Km from \"Ho Chi Minh City\"\n\n/Users/Ian/development/lp/online/waldorf/features/lodging_list_paging.feature:\n    5    I want to be able see a list of suitable lodgings and request more\n    6  \n    7:   Background:\n    8  \n    9    Scenario: I do not see a load more button when there is just one page\n\n/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_descendants.feature:\n    4    I want to see a list of neighbourhoods of or near the place I'm looking at\n    5  \n    6:   Background:\n    7      Given the place called \"Vietnam\"\n    8    \n\n/Users/Ian/development/lp/online/waldorf/features/lodging_list_without_push_state.feature:\n    5    I want to be able see a list of available lodgings for a specific period\n    6  \n    7:   Background:\n    8      Given a place called Ho Chi Minh City\n    9  \n\n/Users/Ian/development/lp/online/waldorf/features/lodging_maps.feature:\n    5    I want to see a map showing the hotel and maybe other points of interest\n    6  \n    7:   Background: \n    8      Given a generic \"Ho Chi Minh City\" lodging\n    9  \n\n/Users/Ian/development/lp/online/waldorf/features/lodging_nearby_filters.feature:\n    4    I want to see nearby lodgings of the type that I selected\n    5  \n    6:   Background:\n    7      Given there is a place called \"Ho Chi Minh City\" with coordinates \"10.7806\", \"106.6649\" and area \"217395050.406914\"\n    8      And 17 hotels exist at 1 Km from \"Ho Chi Minh City\" with the following attributes:\n\n/Users/Ian/development/lp/online/waldorf/features/lodging_show.feature:\n    4    I want to show a traveller the lodging details\n    5  \n    6:   Background:\n    7  \n    8    Scenario: see LP review if it is present\n\n/Users/Ian/development/lp/online/waldorf/features/lodging_star_rating_filter.feature:\n    5    I want to be able to filter lodgings by star rating\n    6  \n    7:   Background:\n    8      Given 1 hotel exists in the place called \"Ho Chi Minh City\"\n    9      And 1 \"2 star\" hotel exists in the place called \"Ho Chi Minh City\"\n\n/Users/Ian/development/lp/online/waldorf/features/lodging_top_choice.feature:\n    4    I want to to see only top choice hotels\n    5    \n    6:   Background:\n    7    \n    8    Scenario: Top choice lodgings are indicated on list page\n\n/Users/Ian/development/lp/online/waldorf/features/places.feature:\n    1  Feature: Display beautiful list of child places\n    2  \n    3:   Background:\n    4      Given a destination exists with child places\n    5  \n\n/Users/Ian/development/lp/online/waldorf/features/search.feature:\n    4    I want to see suggestions for both place and lodging names while writing the name prefix\n    5  \n    6:   Background:\n    7       Given the following places exist\n    8        | city          |          breadcrumb             |        slug            |\n\n/Users/Ian/development/lp/online/waldorf/features/stacks_blended.feature:\n    4    I want to be able see a list of curated and non-curated hotels for a place\n    5  \n    6: Background:\n    7    Given the place called \"Christchurch and Canterbury\" in \"New Zealand\"\n    8  \n\n/Users/Ian/development/lp/online/waldorf/features/stacks_manual.feature:\n    4    I want to be able see a manually curated list of lodgings for a place\n    5  \n    6:   Background:\n    7      Given the place called \"Christchurch and Canterbury\" in \"New Zealand\"\n    8      And a manual stack \"/hotels/top-picks\" for \"Christchurch and Canterbury\"\n\n/Users/Ian/development/lp/online/waldorf/lib/vcr_support.rb:\n    2  require 'vcr_support/configuration'\n    3  require 'vcr_support/factory_girl_reset_sequences'\n    4: require 'vcr_support/cucumber_1_fix_around_background'\n    5  require 'vcr_support/cassette_name_from_scenario'\n    6  \n\n/Users/Ian/development/lp/online/waldorf/lib/vcr_support/cucumber_1_fix_around_background.rb:\n    8          visitor.visit_feature_name(@keyword, indented_name)\n    9          # HACK: workaround for https://github.com/cucumber/cucumber/issues/52\n   10:         # visitor.visit_background(@background) if !@background.is_a?(EmptyBackground)\n   11          @feature_elements.each do |feature_element|\n   12            visitor.visit_feature_element(feature_element)\n\n/Users/Ian/development/lp/online/waldorf/public/404.html:\n    4    <title>The page you were looking for doesn't exist (404)</title>\n    5    <style type=\"text/css\">\n    6:     body { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n    7      div.dialog {\n    8        width: 25em;\n\n/Users/Ian/development/lp/online/waldorf/public/422.html:\n    4    <title>The change you wanted was rejected (422)</title>\n    5    <style type=\"text/css\">\n    6:     body { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n    7      div.dialog {\n    8        width: 25em;\n\n/Users/Ian/development/lp/online/waldorf/public/500.html:\n    4    <title>We're sorry, but something went wrong (500)</title>\n    5    <style type=\"text/css\">\n    6:     body { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n    7      div.dialog {\n    8        width: 25em;\n\n86 matches across 42 files\n",
 			"settings":
 			{
-				"buffer_size": 1351,
+				"buffer_size": 16484,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/app/assets/javascripts/lib/stack.js.coffee",
+			"settings":
+			{
+				"buffer_size": 1306,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "development/lp/online/waldorf/app/views/destinations/partials/_left_nav.html.haml",
+			"file": "development/lp/online/waldorf/app/views/shared/content/_social_footer.html.haml",
 			"settings":
 			{
-				"buffer_size": 862,
+				"buffer_size": 1758,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+			"file": "development/lp/online/waldorf/app/views/shared/javascripts/_async_snippet.js.erb",
 			"settings":
 			{
-				"buffer_size": 1590,
+				"buffer_size": 291,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings_container.html.haml",
+			"file": "development/lp/online/waldorf/lib/session_state.rb",
 			"settings":
 			{
-				"buffer_size": 614,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings.html.haml",
-			"settings":
-			{
-				"buffer_size": 595,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/waldorf/app/views/destinations/partials/cards/_collection_card.html.haml",
-			"settings":
-			{
-				"buffer_size": 834,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_errors.sass",
-			"settings":
-			{
-				"buffer_size": 1696,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/waldorf/features/step_definitions/navigation_steps.rb",
-			"settings":
-			{
-				"buffer_size": 8242,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_stack_filter.html.haml",
-			"settings":
-			{
-				"buffer_size": 523,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/waldorf/features/lodging_list_nearby.feature",
-			"settings":
-			{
-				"buffer_size": 4362,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/waldorf/Gemfile.lock",
-			"settings":
-			{
-				"buffer_size": 10240,
+				"buffer_size": 4429,
 				"line_ending": "Unix"
 			}
 		},
@@ -107,63 +61,119 @@
 			"file": "development/lp/online/waldorf/Gemfile",
 			"settings":
 			{
-				"buffer_size": 2376,
+				"buffer_size": 2169,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass",
+			"file": "development/lp/online/waldorf/Gemfile.lock",
 			"settings":
 			{
-				"buffer_size": 9157,
+				"buffer_size": 10335,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/waldorf/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2142,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"build_system": "",
 	"command_palette":
 	{
-		"height": 307.0,
+		"height": 267.0,
 		"selected_items":
 		[
 			[
-				"cof",
-				"Coffee: Check Syntax"
+				"asci",
+				"Find non ascii"
 			],
 			[
-				"git",
+				"ascii",
+				"Find non ascii"
+			],
+			[
+				"asc",
+				"Find non ascii"
+			],
+			[
+				"inst",
 				"Package Control: Install Package"
 			],
 			[
-				"jsh",
-				"JSHint"
+				"bra",
+				"Git: Change Branch"
 			],
 			[
-				"cl",
-				"Project: Close"
+				"git",
+				"Git: Blame"
 			],
 			[
-				"clo",
-				"Project: Close"
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt",
+				"Set Syntax: Cucumber Steps"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fr",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"sa",
 				"Project: Save As"
 			],
 			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
 				"ad",
 				"Project: Add Folder"
 			],
 			[
-				"sav",
-				"Project: Save As"
+				"clo",
+				"Project: Close"
 			],
 			[
-				"add",
-				"Project: Add Folder"
+				"proj",
+				"Project: Close"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sav",
+				"Project: Save As"
 			]
 		],
-		"width": 449.0
+		"width": 530.0
 	},
 	"console":
 	{
@@ -180,32 +190,107 @@
 	},
 	"file_history":
 	[
-		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass",
-		"/Users/Ian/development/lp/online/waldorf/Gemfile",
-		"/Users/Ian/development/lp/online/waldorf/.rvmrc",
-		"/Users/Ian/development/lp/online/waldorf/app/models/place.rb",
-		"/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_nearby_places.feature",
-		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/index.html.haml",
-		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/lodging_list_steps.rb",
-		"/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_descendants.feature",
-		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/analytics/analytics_lodgings.js.coffee",
-		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/analytics/analytics_lodging.js.coffee",
-		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/lodging.js.coffee",
-		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/search.js.coffee",
-		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/stack.js.coffee",
-		"/Users/Ian/development/lp/online/waldorf/Gemfile.lock",
-		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_lodgings.js.coffee",
-		"/Users/Ian/development/lp/online/waldorf/app/views/static/cards.html.haml",
-		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_collection_card.html.haml",
-		"/Users/Ian/development/lp/online/waldorf/app/models/stacks/lodgings.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/application.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/helpers/base_url_provider.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/helpers/application_helper.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/poi/_poi_shopping.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/tips_and_articles_presenter.rb",
 		"/Users/Ian/development/lp/online/waldorf/config/routes.rb",
-		"/Users/Ian/development/lp/online/waldorf/config/es.development.yml",
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/reg_replace.sublime-settings",
+		"/Users/Ian/development/lp/online/waldorf/app/controllers/tips_and_articles_controller.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/tips_and_articles/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/things_to_do_presenter.rb",
 		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/things_to_do/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/static/needtoknowpage.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/place/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/layout/_details.sass",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile",
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile.lock",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/analytics/analytics_lodgings.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/navigation_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/carry_dates_from_availability_list.feature",
+		"/Users/Ian/development/lp/online/waldorf/spec/javascripts/lib/lib/search_spec.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/search.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/lodgings.js.coffee",
 		"/Users/Ian/development/lp/online/waldorf/config/requirejs.yml",
-		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_stack.html.haml",
-		"/Users/Ian/Dropbox/Repositories/LonelyPlanet/lp-working-directory/UI Tests/Miguel/css/lonely-planet.css",
-		"/Users/Ian/development/lp/online/beaker/public/partials/components.html",
-		"/Users/Ian/development/lp/online/beaker/views/components.erb"
+		"/Users/Ian/development/lp/online/waldorf/public/js/lib/lodgings.js",
+		"/Users/Ian/development/lp/online/waldorf/public/js/app_lodgings.js",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_search.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/stack.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/lodging.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/.gitignore",
+		"/Users/Ian/development/lp/online/waldorf/spec/javascripts/lib/lib/analytics/analytics_lodgings_spec.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_left_nav.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/Guardfile",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_search.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_intro_card.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_hints.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_errors.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_availability.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/layout/_list.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_buttons.sass",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_traffic_driver_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/helpers/nav_item_helper.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/left_nav/_things_to_do.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_ad_block_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_collection_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_link_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_media_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_need_to_know_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_place_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_shop_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/left_nav/_lodgings.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/helpers/accordion_helper.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/aside/_nearby_places.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/aside/_neighbourhoods.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/aside/_all.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/aside/_stacks.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_aside.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/Procfile",
+		"/Users/Ian/development/lp/online/waldorf/config/es.development.yml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodging.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/features/lodging_list_with_descendants.feature",
+		"/Users/Ian/development/lp/online/waldorf/app/helpers/omniture_helper.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/controllers/stacks_controller.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/lodging_collection_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/destination_highlights_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/static/cards.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/.rvmrc.example",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/tracking/omniture.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_lodgings.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/helpers/deparam.js",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_ad_sense_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/cards/_mpu_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/managers/lodging_filter.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/destination_highlights_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/application.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/places/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_lodging.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_intro.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_stack.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/config/environments/production.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_link_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_ad_block_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_need_to_know_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/features/stacks_manual.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/stacks_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_collection_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/collection_card_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/media_card_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_media_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/destination_highlights_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/destination_highlights.feature",
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ian/Dropbox/Repositories/tomorrow-theme/textmate/Tomorrow-Night.tmTheme",
+		"/Users/Ian/development/lp/online/waldorf/dump.rdb"
 	],
 	"find":
 	{
@@ -224,23 +309,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			".label",
-			"disclaimer",
-			"section-title",
-			"section-subtitle",
-			"%re-size",
-			"section-subtitle",
+			"background",
+			"app_core",
+			"app_common",
+			"core",
+			"coffee",
+			"base_uri",
+			"stack__article_content_subheading",
+			"stack__article__content__leadin",
+			"stack__article__heading",
+			"stack__article__ad",
+			"<p>",
+			"cation",
+			"<span style='font-size: xx-small;'>",
+			"<h3",
+			"h3",
+			"width=",
+			"class='aligncenter",
+			"src='/",
+			"<a href='/",
+			"–",
+			".card--full-page__title",
+			".card--full-page__header",
+			".stack__article",
+			"pagination-footer",
+			"controller",
+			"until the progress spinner",
+			"console",
+			"@$inputEl",
+			"inputEl",
+			"nputEl",
+			"_window",
+			"@_window",
+			"group__title--aside",
+			"freight",
+			".place-title-heading",
+			"semibold",
+			"tighten-text",
+			"%smooth-text",
+			"nav_item_aside",
+			"grouped_content_for",
+			"price-tag__inner--non-bookable",
+			"dates-searched__end",
 			".section-title",
-			"error__image",
-			"<<<<",
-			"ge should have the following query ",
-			"js-stack-card",
-			"js-stack-card-filter",
-			"args",
-			"milisecondsToDays",
-			"normalizeDate",
-			"totalResults",
-			"searchScope"
+			"%freight-semibold",
+			"%default-room-image",
+			"%freight-semibold",
+			"%arrow-icon-down",
+			"%arrow-icon-up",
+			"%arrow-icon-right",
+			"%arrow-icon-left",
+			"%freight-semibold",
+			".availability__input--date",
+			"%benton-regular",
+			"%benton-book",
+			"benton",
+			"js-facet",
+			"js-nearby-place-item",
+			"card--collection--hotels",
+			"apple-touch-icon-precomposed",
+			"copy",
+			"pagination",
+			"data",
+			"nav_item_aside",
+			"card-kind",
+			"Analytics",
+			"eVar62",
+			"js-clock",
+			"removeLoader",
+			"cucumber/sync",
+			"cucumberSync",
+			"trackLink",
+			"initHistory",
+			"deparam",
+			"currentParams",
+			"navigate",
+			"is-loading",
+			"%border-box",
+			"filters__label",
+			"%smooth-text",
+			"%tighten-text",
+			"icon--small",
+			"icon--regular",
+			"%regular-icon",
+			"%absolute",
+			"%relative",
+			"navigate",
+			"obj",
+			"@filter.set",
+			"disable",
+			"\ndisable",
+			"disable",
+			"filter",
+			"set",
+			"pickadate",
+			"hideGroup",
+			"enable",
+			"replace",
+			"disable",
+			"block",
+			"currentParams",
+			"receivedHotels/success",
+			"pagination",
+			"Pagination",
+			"pagination",
+			"Pagination",
+			"pagination",
+			"reset",
+			"accordion__handler--bottom",
+			"meta_title",
+			"meta",
+			"/Users/Ian/development/lp/online/",
+			"breadcrumb_with_slugs",
+			"breadcrumbs_for_current_layout",
+			"argumentNames",
+			"stack__intro",
+			"requirejs_include_tag",
+			"requirejs",
+			"require",
+			"paths",
+			"requirejs.config",
+			"gpt",
+			"configure_js",
+			"tracking",
+			"mpu_posi",
+			"stack_cards",
+			"safe_image_tag",
+			"card--info",
+			"link_to"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -248,6 +444,12 @@
 		"regex": false,
 		"replace_history":
 		[
+			"src='http://www.lonelyplanet.com/",
+			"<a href='http://www.lonelyplanet.com/",
+			"-",
+			"%freight-semibold",
+			"%freight-book",
+			"position: relative"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -258,56 +460,28 @@
 	"groups":
 	[
 		{
-			"selected": 13,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "development/lp/online/waldorf/app/assets/javascripts/lib/lodgings.js.coffee",
+					"file": "development/lp/online/waldorf/app/views/tips_and_articles/show.html.haml",
 					"settings":
 					{
-						"buffer_size": 1552,
+						"buffer_size": 1654,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								811,
+								811
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 394.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "development/lp/online/waldorf/app/helpers/nav_item_helper.rb",
-					"settings":
-					{
-						"buffer_size": 1351,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -318,24 +492,408 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "development/lp/online/waldorf/app/views/destinations/partials/_left_nav.html.haml",
+					"buffer": 1,
 					"settings":
 					{
-						"buffer_size": 862,
+						"buffer_size": 16484,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										226,
+										236
+									],
+									[
+										315,
+										325
+									],
+									[
+										487,
+										497
+									],
+									[
+										624,
+										634
+									],
+									[
+										867,
+										877
+									],
+									[
+										899,
+										909
+									],
+									[
+										1114,
+										1124
+									],
+									[
+										1270,
+										1280
+									],
+									[
+										1454,
+										1464
+									],
+									[
+										1595,
+										1605
+									],
+									[
+										1754,
+										1764
+									],
+									[
+										1895,
+										1905
+									],
+									[
+										2031,
+										2041
+									],
+									[
+										2262,
+										2272
+									],
+									[
+										2392,
+										2402
+									],
+									[
+										2451,
+										2461
+									],
+									[
+										2548,
+										2558
+									],
+									[
+										2622,
+										2632
+									],
+									[
+										2735,
+										2745
+									],
+									[
+										2810,
+										2820
+									],
+									[
+										2882,
+										2892
+									],
+									[
+										2958,
+										2968
+									],
+									[
+										3032,
+										3042
+									],
+									[
+										3108,
+										3118
+									],
+									[
+										3318,
+										3328
+									],
+									[
+										3563,
+										3573
+									],
+									[
+										3788,
+										3798
+									],
+									[
+										3967,
+										3977
+									],
+									[
+										3999,
+										4009
+									],
+									[
+										4119,
+										4129
+									],
+									[
+										4293,
+										4303
+									],
+									[
+										4362,
+										4372
+									],
+									[
+										4471,
+										4481
+									],
+									[
+										4642,
+										4652
+									],
+									[
+										4781,
+										4791
+									],
+									[
+										4912,
+										4922
+									],
+									[
+										5074,
+										5084
+									],
+									[
+										5175,
+										5185
+									],
+									[
+										5245,
+										5255
+									],
+									[
+										5360,
+										5370
+									],
+									[
+										5494,
+										5504
+									],
+									[
+										5732,
+										5742
+									],
+									[
+										5906,
+										5916
+									],
+									[
+										6042,
+										6052
+									],
+									[
+										6337,
+										6347
+									],
+									[
+										6586,
+										6596
+									],
+									[
+										6889,
+										6899
+									],
+									[
+										7060,
+										7070
+									],
+									[
+										7098,
+										7108
+									],
+									[
+										7125,
+										7135
+									],
+									[
+										7492,
+										7502
+									],
+									[
+										7663,
+										7673
+									],
+									[
+										7701,
+										7711
+									],
+									[
+										7728,
+										7738
+									],
+									[
+										8119,
+										8129
+									],
+									[
+										8407,
+										8417
+									],
+									[
+										8689,
+										8699
+									],
+									[
+										8976,
+										8986
+									],
+									[
+										9209,
+										9219
+									],
+									[
+										9459,
+										9469
+									],
+									[
+										9713,
+										9723
+									],
+									[
+										10042,
+										10052
+									],
+									[
+										10383,
+										10393
+									],
+									[
+										10601,
+										10611
+									],
+									[
+										10880,
+										10890
+									],
+									[
+										11164,
+										11174
+									],
+									[
+										11538,
+										11548
+									],
+									[
+										11828,
+										11838
+									],
+									[
+										12085,
+										12095
+									],
+									[
+										12326,
+										12336
+									],
+									[
+										12568,
+										12578
+									],
+									[
+										12947,
+										12957
+									],
+									[
+										13182,
+										13192
+									],
+									[
+										13490,
+										13500
+									],
+									[
+										13717,
+										13727
+									],
+									[
+										13975,
+										13985
+									],
+									[
+										14296,
+										14306
+									],
+									[
+										14565,
+										14575
+									],
+									[
+										14955,
+										14965
+									],
+									[
+										15310,
+										15320
+									],
+									[
+										15322,
+										15332
+									],
+									[
+										15339,
+										15349
+									],
+									[
+										15361,
+										15371
+									],
+									[
+										15680,
+										15690
+									],
+									[
+										15996,
+										16006
+									],
+									[
+										16315,
+										16325
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "development/lp/online/waldorf/app/assets/javascripts/lib/stack.js.coffee",
+					"settings":
+					{
+						"buffer_size": 1306,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								276,
+								276
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -347,23 +905,23 @@
 				},
 				{
 					"buffer": 3,
-					"file": "development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+					"file": "development/lp/online/waldorf/app/views/shared/content/_social_footer.html.haml",
 					"settings":
 					{
-						"buffer_size": 1590,
+						"buffer_size": 1758,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								786,
+								786
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -375,23 +933,23 @@
 				},
 				{
 					"buffer": 4,
-					"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings_container.html.haml",
+					"file": "development/lp/online/waldorf/app/views/shared/javascripts/_async_snippet.js.erb",
 					"settings":
 					{
-						"buffer_size": 614,
+						"buffer_size": 291,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								290,
+								290
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -401,36 +959,10 @@
 				},
 				{
 					"buffer": 5,
-					"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_lodgings.html.haml",
+					"file": "development/lp/online/waldorf/lib/session_state.rb",
 					"settings":
 					{
-						"buffer_size": 595,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								124,
-								124
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "development/lp/online/waldorf/app/views/destinations/partials/cards/_collection_card.html.haml",
-					"settings":
-					{
-						"buffer_size": 834,
+						"buffer_size": 4429,
 						"regions":
 						{
 						},
@@ -443,7 +975,35 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "development/lp/online/waldorf/Gemfile",
+					"settings":
+					{
+						"buffer_size": 2169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -455,189 +1015,51 @@
 				},
 				{
 					"buffer": 7,
-					"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_errors.sass",
+					"file": "development/lp/online/waldorf/Gemfile.lock",
 					"settings":
 					{
-						"buffer_size": 1696,
+						"buffer_size": 10335,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								708,
-								708
+								190,
+								190
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 304.0,
+						"translation.y": 2921.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 8,
-					"file": "development/lp/online/waldorf/features/step_definitions/navigation_steps.rb",
+					"file": "development/lp/online/waldorf/config/routes.rb",
 					"settings":
 					{
-						"buffer_size": 8242,
+						"buffer_size": 2142,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1951,
+								1951
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3535.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_stack_filter.html.haml",
-					"settings":
-					{
-						"buffer_size": 523,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "development/lp/online/waldorf/features/lodging_list_nearby.feature",
-					"settings":
-					{
-						"buffer_size": 4362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 226.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "development/lp/online/waldorf/Gemfile.lock",
-					"settings":
-					{
-						"buffer_size": 10240,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "development/lp/online/waldorf/Gemfile",
-					"settings":
-					{
-						"buffer_size": 2376,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								735,
-								735
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "development/lp/online/waldorf/app/assets/stylesheets/sections/_rooms.sass",
-					"settings":
-					{
-						"buffer_size": 9157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								934,
-								934
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -656,7 +1078,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -681,13 +1103,17 @@
 		]
 	},
 	"menu_visible": true,
+	"output.CoffeeLintPanel":
+	{
+		"height": 27.0
+	},
 	"output.exec":
 	{
 		"height": 112.0
 	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -696,36 +1122,136 @@
 		"selected_items":
 		[
 			[
-				"lodging_list_wi",
-				"features/lodging_list_with_nearby_places.feature"
-			],
-			[
-				"lod",
-				"features/lodging_list_nearby.feature"
-			],
-			[
-				"lodging_li",
-				"features/step_definitions/lodging_list_steps.rb"
-			],
-			[
-				"route",
+				"rute",
 				"config/routes.rb"
 			],
 			[
-				"cards",
-				"app/views/static/cards.html.haml"
+				"sess",
+				"lib/session_state.rb"
 			],
 			[
-				"stack_it",
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"carr",
+				"features/carry_dates_from_availability_list.feature"
+			],
+			[
+				"analytic",
+				"spec/javascripts/lib/lib/analytics/analytics_lodgings_spec.coffee"
+			],
+			[
+				"anal",
+				"app/assets/javascripts/lib/analytics/analytics_lodgings.js.coffee"
+			],
+			[
+				"lodgings.",
+				"app/assets/javascripts/lib/lodgings.js.coffee"
+			],
+			[
+				"ind",
+				"app/views/lodgings/index.html.haml"
+			],
+			[
+				"_list",
+				"app/assets/stylesheets/layout/_list.sass"
+			],
+			[
+				"_ava",
+				"app/assets/stylesheets/sections/_availability.sass"
+			],
+			[
+				"error",
+				"app/assets/stylesheets/sections/_errors.sass"
+			],
+			[
+				"hints",
+				"app/assets/stylesheets/sections/_hints.sass"
+			],
+			[
+				"intro_",
+				"app/assets/stylesheets/sections/_intro_card.sass"
+			],
+			[
+				"rooms.s",
+				"app/assets/stylesheets/sections/_rooms.sass"
+			],
+			[
+				"searc",
+				"app/assets/stylesheets/sections/_search.sass"
+			],
+			[
+				"rooms.",
+				"app/assets/stylesheets/sections/_rooms.sass"
+			],
+			[
+				"",
+				"app/views/destinations/partials/_left_nav.html.haml"
+			],
+			[
+				"lef",
+				"app/views/destinations/partials/_left_nav.html.haml"
+			],
+			[
+				"lodging_li",
+				"features/lodging_list_with_descendants.feature"
+			],
+			[
+				"navi",
+				"features/step_definitions/navigation_steps.rb"
+			],
+			[
+				"d",
+				"features/step_definitions/destination_highlights_steps.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"a",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"es.d",
+				"config/es.development.yml"
+			],
+			[
+				"req",
+				"config/requirejs.yml"
+			],
+			[
+				"des",
+				"app/presenters/destination_highlights_presenter.rb"
+			],
+			[
+				"dest",
+				"spec/presenters/destination_highlights_presenter_spec.rb"
+			],
+			[
+				"destination_highlights_steps",
+				"features/step_definitions/destination_highlights_steps.rb"
+			],
+			[
+				"destinat",
+				"features/destination_highlights.feature"
+			],
+			[
+				"stack.fea",
+				"features/stacks_manual.feature"
+			],
+			[
+				"stack_st",
+				"features/step_definitions/stacks_steps.rb"
+			],
+			[
+				"stackite",
 				"app/views/destinations/partials/_stack_items_collection_card.html.haml"
 			],
 			[
-				"c",
-				"public/partials/components.html"
-			],
-			[
-				"comp",
-				"views/components.erb"
+				"media",
+				"app/views/destinations/partials/_stack_items_media_card.html.haml"
 			]
 		],
 		"width": 0.0
@@ -736,23 +1262,23 @@
 		"selected_items":
 		[
 			[
-				"b",
-				"/Users/Ian/beaker.sublime-project"
+				"riz",
+				"/Users/Ian/rizzo.sublime-project"
 			],
 			[
-				"a",
-				"/Users/Ian/avocado.sublime-project"
+				"r",
+				"/Users/Ian/rizzo.sublime-project"
 			],
 			[
-				"A",
-				"/Users/Ian/avocado.sublime-project"
-			],
-			[
-				"fo",
-				"/Users/Ian/Dropbox/fonts.sublime-project"
+				"ri",
+				"/Users/Ian/rizzo.sublime-project"
 			],
 			[
 				"bea",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"",
 				"/Users/Ian/beaker.sublime-project"
 			],
 			[
@@ -760,8 +1286,56 @@
 				"/Users/Ian/beaker.sublime-project"
 			],
 			[
-				"",
+				"av",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"avoca",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"ch",
+				"/Users/Ian/chef.sublime-project"
+			],
+			[
+				"wa",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"che",
+				"/Users/Ian/chef.sublime-project"
+			],
+			[
+				"fla",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"a",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"beak",
 				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"mic",
+				"/Users/Ian/microsites.sublime-project"
+			],
+			[
+				"beaker",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"f",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"fl",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"mi",
+				"/Users/Ian/microsites.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -770,6 +1344,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 253.0,
+	"side_bar_width": 354.0,
 	"status_bar_visible": true
 }

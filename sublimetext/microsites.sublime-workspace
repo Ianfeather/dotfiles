@@ -4,74 +4,15 @@
 		"selected_items":
 		[
 			[
-				"pro",
-				"prototype"
-			],
-			[
-				"prp",
-				"prototype"
-			],
-			[
-				"m",
-				"myFlam"
-			],
-			[
-				"timing",
-				"timingStub"
-			],
-			[
-				"g",
-				"getCookie"
-			],
-			[
-				"l",
-				"log"
-			],
-			[
-				"b",
-				"buffer"
+				"zon",
+				"zoneName"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "development/lp/online/flamsteed/lib/javascripts/flamsteed.js",
-			"settings":
-			{
-				"buffer_size": 4565,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 336,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/flamsteed/public/index.html",
-			"settings":
-			{
-				"buffer_size": 747,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "development/lp/online/flamsteed/lib/javascripts/lp.js",
-			"settings":
-			{
-				"buffer_size": 518,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
-			"file": "development/lp/online/flamsteed/spec/javascripts/flamsteed_spec.coffee",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "development/lp/online/microsites/microsites/hotels/index.php",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -79,79 +20,83 @@
 			}
 		},
 		{
-			"file": "development/lp/online/flamsteed/TODO",
+			"file": "development/lp/online/microsites/microsites/landing-page-global-assets/includes/dest.php",
 			"settings":
 			{
-				"buffer_size": 535,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "development/lp/online/flamsteed/bower.json",
+			"file": "development/lp/online/microsites/microsites/landing-page-global-assets/includes/globalUtils.php",
 			"settings":
 			{
-				"buffer_size": 245,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "development/lp/online/flamsteed/package.json",
+			"file": "development/lp/online/microsites/microsites/flights/geo-airport-includes/airport-lookup.inc.php",
 			"settings":
 			{
-				"buffer_size": 432,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/microsites/microsites/local_gl_includes_generator.sh",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/microsites/microsites/gl_includes/core-global-head",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/microsites/microsites/gl_includes/core-global-body-footer",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/microsites/microsites/gl_includes/core-global-body-header",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"json",
-				"Set Syntax: JSON"
-			],
-			[
-				"js",
-				"JSHint"
-			],
-			[
-				"jsh",
-				"JSHint"
-			],
-			[
-				"coffe",
-				"Coffee: Check Syntax"
-			],
-			[
-				"r",
-				"Indentation: Convert to Spaces"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"coff",
-				"Set Syntax: CoffeeScript"
-			],
-			[
-				"form",
-				"Format: Javascript"
-			],
-			[
-				"clo",
+				"cl",
 				"Project: Close"
 			],
 			[
 				"sa",
 				"Project: Save As"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
 			],
 			[
 				"add",
@@ -170,7 +115,7 @@
 				"Project: Save As"
 			]
 		],
-		"width": 458.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -187,13 +132,7 @@
 	},
 	"file_history":
 	[
-		"/Users/Ian/development/lp/online/flamsteed/spec/javascripts/flamsteed_spec.coffee",
-		"/Users/Ian/development/lp/online/flamsteed/public/index.html",
-		"/Users/Ian/development/lp/online/flamsteed/TODO",
-		"/Users/Ian/flam.js",
-		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/Ian/development/lp/online/flamsteed/Gemfile",
-		"/Users/Ian/development/lp/online/flamsteed/Gemfile.lock"
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -204,6 +143,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -211,37 +151,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"debug",
-			"init",
-			"flushIfFull",
-			"flushIfEnough",
-			"startPoll",
-			"flushIfFull",
-			"_flushIfFull",
-			"_flushIfEnough",
-			"startPoll",
-			"flushIfEnough",
-			"flushIfFull",
-			"emptyBuffer",
-			"initRu",
-			"strategy",
-			"isCapable",
-			"timestamp",
-			"sender",
-			"uuid",
-			"url",
-			"Performance",
-			"performance",
-			"console",
-			"url",
-			"_appendImage",
-			"cons",
-			"_sendData",
-			"sender",
-			"sendData",
-			"buffer",
-			"prototype.buffer",
-			"resetT"
+			"getJs",
+			"getZone"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -259,123 +170,12 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "development/lp/online/flamsteed/lib/javascripts/flamsteed.js",
-					"settings":
-					{
-						"buffer_size": 4565,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								551,
-								551
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 336,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "development/lp/online/flamsteed/public/index.html",
-					"settings":
-					{
-						"buffer_size": 747,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "development/lp/online/flamsteed/lib/javascripts/lp.js",
-					"settings":
-					{
-						"buffer_size": 518,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								505,
-								505
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "development/lp/online/flamsteed/spec/javascripts/flamsteed_spec.coffee",
+					"file": "development/lp/online/microsites/microsites/hotels/index.php",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -391,22 +191,22 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "development/lp/online/flamsteed/TODO",
+					"buffer": 1,
+					"file": "development/lp/online/microsites/microsites/landing-page-global-assets/includes/dest.php",
 					"settings":
 					{
-						"buffer_size": 535,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -419,7 +219,119 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "development/lp/online/microsites/microsites/landing-page-global-assets/includes/globalUtils.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "development/lp/online/microsites/microsites/flights/geo-airport-includes/airport-lookup.inc.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "development/lp/online/microsites/microsites/local_gl_includes_generator.sh",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "development/lp/online/microsites/microsites/gl_includes/core-global-head",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -429,23 +341,23 @@
 				},
 				{
 					"buffer": 6,
-					"file": "development/lp/online/flamsteed/bower.json",
+					"file": "development/lp/online/microsites/microsites/gl_includes/core-global-body-footer",
 					"settings":
 					{
-						"buffer_size": 245,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								86,
-								86
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -457,23 +369,23 @@
 				},
 				{
 					"buffer": 7,
-					"file": "development/lp/online/flamsteed/package.json",
+					"file": "development/lp/online/microsites/microsites/gl_includes/core-global-body-header",
 					"settings":
 					{
-						"buffer_size": 432,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4,
-								4
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -532,8 +444,8 @@
 		"selected_items":
 		[
 			[
-				"fla",
-				"spec/javascripts/flamsteed_spec.coffee"
+				"core-",
+				"gl_includes/core-global-body-header"
 			]
 		],
 		"width": 0.0
@@ -544,44 +456,28 @@
 		"selected_items":
 		[
 			[
-				"wa",
-				"/Users/Ian/waldorf.sublime-project"
-			],
-			[
 				"av",
 				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"wa",
+				"/Users/Ian/waldorf.sublime-project"
 			],
 			[
 				"riz",
 				"/Users/Ian/rizzo.sublime-project"
 			],
 			[
-				"avo",
-				"/Users/Ian/avocado.sublime-project"
+				"rz",
+				"/Users/Ian/rizzo.sublime-project"
 			],
 			[
-				"a",
-				"/Users/Ian/avocado.sublime-project"
-			],
-			[
-				"micro",
-				"/Users/Ian/microsites.sublime-project"
+				"b",
+				"/Users/Ian/beaker.sublime-project"
 			],
 			[
 				"",
-				"/Users/Ian/rizzo.sublime-project"
-			],
-			[
-				"ri",
-				"/Users/Ian/rizzo.sublime-project"
-			],
-			[
-				"beak",
-				"/Users/Ian/beaker.sublime-project"
-			],
-			[
-				"bea",
-				"/Users/Ian/beaker.sublime-project"
+				"/Users/Ian/waldorf.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -590,6 +486,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 181.0,
+	"side_bar_width": 229.0,
 	"status_bar_visible": true
 }

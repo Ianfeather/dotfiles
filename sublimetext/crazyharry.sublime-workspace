@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt",
+				"Set Syntax: Cucumber Steps"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fr",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/config/requirejs.yml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/places/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_search.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_lodgings.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_lodging.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/destination_highlights_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile",
+		"/Users/Ian/development/lp/online/waldorf/app/helpers/application_helper.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/lodgings/partials/lodging_list/_intro.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/app_stack.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/config/application.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/index.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/config/environments/production.rb",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile.lock",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_link_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_ad_block_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_need_to_know_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/config/es.development.yml",
+		"/Users/Ian/development/lp/online/waldorf/features/stacks_manual.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/stacks_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_collection_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/collection_card_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/media_card_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_stack_items_media_card.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/destination_highlights_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/destination_highlights.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/destination_highlights_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/destinations/partials/_left_nav.html.haml",
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ian/Dropbox/Repositories/tomorrow-theme/textmate/Tomorrow-Night.tmTheme",
+		"/Users/Ian/development/lp/online/waldorf/.rvmrc.example",
+		"/Users/Ian/development/lp/online/waldorf/dump.rdb",
+		"/Users/Ian/development/lp/online/waldorf/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/Users/Ian/development/lp/online/",
+			"breadcrumb_with_slugs",
+			"breadcrumbs_for_current_layout",
+			"argumentNames",
+			"stack__intro",
+			"requirejs_include_tag",
+			"requirejs",
+			"require",
+			"paths",
+			"requirejs.config",
+			"gpt",
+			"configure_js",
+			"tracking",
+			"mpu_posi",
+			"stack_cards",
+			"safe_image_tag",
+			"card--info",
+			"link_to",
+			"should see a hero hotel collection card",
+			"resize",
+			"_v"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"es.d",
+				"config/es.development.yml"
+			],
+			[
+				"req",
+				"config/requirejs.yml"
+			],
+			[
+				"des",
+				"app/presenters/destination_highlights_presenter.rb"
+			],
+			[
+				"dest",
+				"spec/presenters/destination_highlights_presenter_spec.rb"
+			],
+			[
+				"destination_highlights_steps",
+				"features/step_definitions/destination_highlights_steps.rb"
+			],
+			[
+				"destinat",
+				"features/destination_highlights.feature"
+			],
+			[
+				"stack.fea",
+				"features/stacks_manual.feature"
+			],
+			[
+				"stack_st",
+				"features/step_definitions/stacks_steps.rb"
+			],
+			[
+				"stackite",
+				"app/views/destinations/partials/_stack_items_collection_card.html.haml"
+			],
+			[
+				"media",
+				"app/views/destinations/partials/_stack_items_media_card.html.haml"
+			],
+			[
+				"lef",
+				"app/views/destinations/partials/_left_nav.html.haml"
+			],
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"riz",
+				"/Users/Ian/rizzo.sublime-project"
+			],
+			[
+				"ch",
+				"/Users/Ian/chef.sublime-project"
+			],
+			[
+				"che",
+				"/Users/Ian/chef.sublime-project"
+			],
+			[
+				"bea",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"fla",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"ri",
+				"/Users/Ian/rizzo.sublime-project"
+			],
+			[
+				"a",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"av",
+				"/Users/Ian/avocado.sublime-project"
+			],
+			[
+				"beak",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"mic",
+				"/Users/Ian/microsites.sublime-project"
+			],
+			[
+				"",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"beaker",
+				"/Users/Ian/beaker.sublime-project"
+			],
+			[
+				"wa",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"f",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"fl",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"mi",
+				"/Users/Ian/microsites.sublime-project"
+			],
+			[
+				"be",
+				"/Users/Ian/beaker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[+respond-to(wide-view)
+  ${1}]]></content>
+  <tabTrigger>wv</tabTrigger>
+  <scope>source.sass</scope>
+</snippet>

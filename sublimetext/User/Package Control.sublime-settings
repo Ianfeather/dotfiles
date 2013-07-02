@@ -1,13 +1,20 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"CoffeeComplete Plus (Autocompletion)",
+		"CoffeeLint",
 		"CoffeeScript",
-		"Haml",
-		"HTML2Haml",
+		"Cucumber",
+		"Emmet",
+		"Find Non ASCII Characters",
+		"Git",
 		"JsFormat",
 		"JSHint",
-		"Markdown Preview",
 		"Package Control",
-		"Sass"
+		"RegReplace",
+		"RubyFormat",
+		"Sass",
+		"Syntax Highlighting for Sass"
 	]
 }

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[console.log(${1}) if window.console ]]></content>
-	<tabTrigger>cl</tabTrigger>
-	<scope>source.coffee</scope>
+  <content><![CDATA[console.log(${1}) if window.console ]]></content>
+  <tabTrigger>cl</tabTrigger>
+  <scope>source.coffee</scope>
 </snippet>

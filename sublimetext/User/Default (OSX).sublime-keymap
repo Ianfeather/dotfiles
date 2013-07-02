@@ -1,2 +1,18 @@
 [
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" },
+  {
+    "keys": ["super+ctrl+l"],
+    "command": "reg_replace",
+    "args": {
+      "replacements": ["local_projects"]
+    }
+  },
+  {
+    "keys": ["super+ctrl+k"],
+    "command": "reg_replace",
+    "args": {
+      "replacements": ["git_projects"]
+    }
+  }
 ]

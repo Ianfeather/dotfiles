@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "development/lp/online/chef-repo/cookbooks/LP/definitions/build_assets.rb",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "development/lp/online/chef-repo/cookbooks/LP/definitions/fetch_manifests.rb",
+			"settings":
+			{
+				"buffer_size": 783,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ian/development/lp/online/chef-repo/roles/waldorf_webpagetest.json",
+		"/Users/Ian/development/lp/online/avocado/app/assets/javascripts/lib/core/base.coffee",
+		"/Users/Ian/development/lp/online/avocado/lib/avocado/base.rb",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/core/base.spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/spec/javascripts/lib/core/ad_manager_spec.coffee",
+		"/Users/Ian/development/lp/online/avocado/Gemfile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gpt",
+			"Authenticator",
+			"gpt",
+			"$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "development/lp/online/chef-repo/cookbooks/LP/definitions/build_assets.rb",
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "development/lp/online/chef-repo/cookbooks/LP/definitions/fetch_manifests.rb",
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"manifest",
+				"cookbooks/LP/definitions/fetch_manifests.rb"
+			],
+			[
+				"asset",
+				"cookbooks/LP/definitions/build_assets.rb"
+			],
+			[
+				"base",
+				"app/assets/javascripts/lib/core/base.coffee"
+			],
+			[
+				"ads",
+				"public/assets/javascripts/lib/core/ad_manager_old.js"
+			],
+			[
+				"",
+				"app/assets/javascripts/lib/core/base.coffee"
+			],
+			[
+				"fl",
+				"vendor/assets/javascripts/flamsteed.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"wa",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"riz",
+				"/Users/Ian/rizzo.sublime-project"
+			],
+			[
+				"fla",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"r",
+				"/Users/Ian/rizzo.sublime-project"
+			],
+			[
+				"wal",
+				"/Users/Ian/waldorf.sublime-project"
+			],
+			[
+				"fl",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"",
+				"/Users/Ian/flamsteed.sublime-project"
+			],
+			[
+				"f",
+				"/Users/Ian/flamsteed.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true
+}

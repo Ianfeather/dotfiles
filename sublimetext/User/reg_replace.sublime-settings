@@ -1,0 +1,14 @@
+{
+  "replacements": {
+    "local_projects": {
+      "find": "^gem '(rizzo|avocado|beaker)', (.*)",
+      "replace": "gem '\\1', path: '/Users/Ian/development/lp/online/\\1'",
+      "case": false
+    },
+    "git_projects": {
+      "find": "^gem '(rizzo|avocado|beaker)', (.*)",
+      "replace": "gem '\\1', git: 'git@github.com:lonelyplanet/\\1.git'",
+      "case": false
+    }
+  }
+}
