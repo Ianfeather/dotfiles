@@ -1,0 +1,26 @@
+#!/bin/sh
+#
+
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+	against=HEAD
+else
+	# Initial commit: diff against an empty tree object
+	against=4b825dc642cb6eb9a060e54bf8d69288fbee4904
+fi
+
+if 
+	test "$(git diff-index --cached -S/Users/Ian/ $against)"
+then
+	echo "Error: Attempt to add a local gemfile"
+	exit 1
+fi
+
+if 
+	test "$(git diff-index --cached -S'<<<<' $against)"
+then
+	echo "Error: Attempt to add a file that still needs conflicts resolved"
+	exit 1
+fi
+
+exec git diff-index --check --cached $against --

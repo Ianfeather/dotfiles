@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_footer_sitemap.html.haml",
+			"settings":
+			{
+				"buffer_size": 4463,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -147,7 +155,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			""
@@ -158,6 +166,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"card--",
+			"card--full-width",
+			"card--single",
+			"stack",
+			"card-holder",
+			"grid-wrapper",
+			"col--",
+			"col--one-quarter",
+			"col--one-half",
+			"col--one-third",
+			".title--footer",
 			" wv--hidden",
 			"wv-hidden",
 			"form--language",
@@ -206,8 +225,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_footer_sitemap.html.haml",
+					"settings":
+					{
+						"buffer_size": 4463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3601,
+								3625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 734.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -297,6 +345,10 @@
 		"selected_items":
 		[
 			[
+				"a",
+				"/Users/Ian/Dropbox/Repositories/myRepos/dotfiles/sublimetext/Projects/avocado.sublime-project"
+			],
+			[
 				"",
 				"/Users/Ian/rizzo.sublime-project"
 			],
@@ -335,10 +387,6 @@
 			[
 				"ea",
 				"/Users/Ian/beaker.sublime-project"
-			],
-			[
-				"a",
-				"/Users/Ian/avocado.sublime-project"
 			],
 			[
 				"avo",
