@@ -9,7 +9,7 @@ echo "========================================================"
 echo "Installing some core software using Homebrew"
 echo "========================================================"
 
-if [ $(uname -s) = "Darwin" ] 
+if [ $(uname -s) = "Darwin" ]
 then
   . script/homebrew
 fi
@@ -38,7 +38,7 @@ echo "========================================================"
 echo "Symlinking Sublime Text Settings"
 echo "========================================================"
 
-ln -s $HOME/Dropbox/Repositories/myRepos/dotfiles/sublimetext/User/ $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+ln -s $HOME/Repositories/myRepos/dotfiles/sublimetext/User/ $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
 
 echo "========================================================"
 echo "AWS Set up"

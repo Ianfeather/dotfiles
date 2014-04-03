@@ -5,8 +5,8 @@ alias reload='. ~/.bash_profile'
 #Shortcuts to directories
 alias ..='cd ..'
 alias ...='cd ../..'
-alias repos='cd ~/Dropbox/Repositories'
-alias dotfiles='cd /Users/Ian/Dropbox/Repositories/myRepos/dotfiles'
+alias repos='cd ~/Repositories'
+alias dotfiles='cd /Users/Ian/Repositories/myRepos/dotfiles'
 
 # commands starting with % for pasting from web
 alias %=' '

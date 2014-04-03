@@ -3,19 +3,264 @@
 	{
 		"selected_items":
 		[
+			[
+				"nine",
+				"ninetieth_percentile"
+			],
+			[
+				"ran",
+				"range_slider_options"
+			],
+			[
+				"ma",
+				"max_value"
+			],
+			[
+				"min",
+				"min_value"
+			],
+			[
+				"ni",
+				"ninetieth_percentile"
+			],
+			[
+				"prin",
+				"price_range_cap"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"price",
+				"price_range"
+			],
+			[
+				"pop",
+				"popStateFired"
+			],
+			[
+				"st",
+				"styleguide"
+			],
+			[
+				"mi",
+				"mixin"
+			],
+			[
+				"shoudl",
+				"should_not"
+			],
+			[
+				"section_",
+				"section_from_slug"
+			],
+			[
+				"sass",
+				"sass_collection"
+			],
+			[
+				"map",
+				"mapwi-	map_with_index { |e, i| .. }"
+			],
+			[
+				"act",
+				"active_section"
+			],
+			[
+				"lef",
+				"left_nav_stub"
+			],
+			[
+				"ne",
+				"newValue"
+			],
+			[
+				"range",
+				"rangeSlider"
+			],
+			[
+				"cu",
+				"currentMax"
+			],
+			[
+				"uda",
+				"_updateMax"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"na",
+				"navigatingByHistory"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"cac",
+				"cachePosition"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"cl",
+				"clientCache"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"toHa",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"aft",
+				"afterEach"
+			],
+			[
+				"and",
+				"andReturn"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/app/presenters/thing_to_do_collection_presenter.rb",
+			"settings":
+			{
+				"buffer_size": 10102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/features/things_to_do_filters.feature",
+			"settings":
+			{
+				"buffer_size": 923,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_filter_steps.rb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "thisn"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_subcategory_steps.rb",
+			"settings":
+			{
+				"buffer_size": 1567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/spec/presenters/thing_to_do_collection_presenter_spec.rb",
+			"settings":
+			{
+				"buffer_size": 19016,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/app/helpers/ttd_helper.rb",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/spec/helpers/ttd_helper_spec.rb",
+			"settings":
+			{
+				"buffer_size": 640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/spec/controllers/things_to_do_controller_spec.rb",
+			"settings":
+			{
+				"buffer_size": 4651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/spec/views/things_to_do/index.html.haml_spec.rb",
+			"settings":
+			{
+				"buffer_size": 2971,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/application.sass",
+			"settings":
+			{
+				"buffer_size": 1777,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/Gemfile",
+			"settings":
+			{
+				"buffer_size": 2730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/.env",
+			"settings":
+			{
+				"buffer_size": 1178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/app/controllers/lodgings_controller.rb",
+			"settings":
+			{
+				"buffer_size": 5811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/lodgings.js.coffee",
+			"settings":
+			{
+				"buffer_size": 2282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ian/development/lp/online/waldorf/app/controllers/things_to_do_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1886,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 187.0,
 		"selected_items":
 		[
 			[
-				"sa",
+				"save",
 				"Project: Save As"
 			],
 			[
@@ -23,63 +268,123 @@
 				"Project: Add Folder"
 			],
 			[
-				"clo",
-				"Project: Close"
+				"sass",
+				"Set Syntax: Sass"
 			],
 			[
-				"ad",
-				"Project: Add Folder"
+				"prett",
+				"HTMLPrettify"
 			],
 			[
-				"cl",
-				"Project: Close"
+				"jsh",
+				"JSHint"
 			],
 			[
-				"gi",
-				"Git: Blame"
+				"rei",
+				"Indentation: Reindent Lines"
 			],
 			[
-				"blame",
-				"Git: Blame"
+				"cucum",
+				"Gherkin/Cucumber: Format"
 			],
 			[
-				"blam",
-				"Git: Blame"
+				"sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
 			],
 			[
 				"git",
 				"Git: Blame"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"j",
+				"JSHint"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"asss",
+				"Set Syntax: Sass"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"java",
 				"Set Syntax: JavaScript"
 			],
 			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
 				"coff",
 				"Set Syntax: CoffeeScript"
 			],
 			[
-				"proj",
-				"Project: Close"
+				"ins",
+				"Package Control: Install Package"
 			],
 			[
-				"remove",
-				"Package Control: Remove Package"
+				"insta",
+				"Package Control: Install Package"
 			],
 			[
-				"sav",
-				"Project: Save As"
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"cloj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
 			]
 		],
-		"width": 458.0
+		"width": 467.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -92,65 +397,183 @@
 	},
 	"file_history":
 	[
-		"/Users/Ian/Dropbox/Repositories/myRepos/dotfiles/sublimetext/avocado.sublime-project",
-		"/Users/Ian/Dropbox/Repositories/myRepos/dotfiles/sublimetext/avocado.sublime-workspace",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_footer_sitemap.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_primary_navigation_bar.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/log/development.log",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/_responsive_master_head.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/_homepage_master_head.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_responsive_header.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/global/homepage.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/controllers/global_resources_controller.rb",
-		"/Users/Ian/development/lp/online/rizzo/config/routes.rb",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/_head.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/global/index.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/global/hmeapge.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_secondary_navigation_bar.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/helpers/global_resources_helper.rb",
-		"/Users/Ian/development/lp/online/rizzo/spec/helpers/global_resources_helper_spec.rb",
-		"/Users/Ian/development/lp/online/rizzo/app/helpers/asset_helper.rb",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_head_js.haml",
-		"/Users/Ian/development/lp/online/rizzo/Gemfile",
-		"/Users/Ian/development/lp/online/rizzo/app/views/global/legacy.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/woff.sass",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_fonts.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/Gemfile.lock",
-		"/Users/Ian/development/lp/online/rizzo/config/application.rb",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_footer_about.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/common_core.sass",
-		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/woff",
+		"/Users/Ian/development/lp/online/waldorf/public/assets/icons/active/envelope-b367810022759bad04ffdd47e955ec60.svg",
+		"/Users/Ian/development/lp/online/waldorf/public/assets/icons/active/envelope.svg",
+		"/Users/Ian/development/lp/online/waldorf/spec/fixtures/env_example",
+		"/Users/Ian/development/lp/online/waldorf/features/support/env.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/environment.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/fixtures/expedia_availability_none.json",
+		"/Users/Ian/development/lp/online/waldorf/public/stylesheets/application.css",
+		"/Users/Ian/development/lp/online/waldorf/config/application.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/things_to_do/partials/_filters.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do.feature",
+		"/Users/Ian/development/lp/online/waldorf/config/environments/test.rb",
+		"/Users/Ian/development/lp/online/waldorf/Gemfile",
+		"/Users/Ian/development/lp/online/waldorf/doc/README_FOR_APP",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/managers/availability/availability_form.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/carry_dates_from_availability_list_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/javascripts/fixtures/rooms_expedia.html",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/available_rooms_alternatives_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/initializers/fozzie.rb",
+		"/Users/Ian/development/lp/online/waldorf/config/fixture.yml.example",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/stack.js.coffee",
+		"/Users/Ian/development/lp/online/waldorf/spec/controllers/lodgings_controller_index_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/thing_to_do_collection_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/controllers/lodgings_controller.rb",
+		"/Users/Ian/development/lp/online/waldorf/.env",
+		"/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/sections/_filters.sass",
+		"/Users/Ian/development/lp/online/waldorf/features/support/filter_helpers.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/filter_links_for_bots.feature",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/viator_thing_to_do_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/intrepid_thing_to_do_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/curated_thing_to_do_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/atlas_thing_to_do_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/views/things_to_do/partials/_nearby_things_to_do.html.haml",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/thing_to_do_collection_presenter_integration_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/meta/thing_to_do_meta_provider_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/cards/thing_to_do_card_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/thing_to_do_presenter_integration_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/thing_to_do_presenter_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/meta/things_to_do_topic_meta_provider_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/models/thing_to_do_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/curated_things_to_do_presenter.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/presenters/meta/things_to_do_meta_provider_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/meta/things_to_do_topic_meta_provider.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_collection_nearby_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/app/presenters/meta/things_to_do_meta_provider.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/routing/things_to_do_routing_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/spec/controllers/things_to_do_controller_spec.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_subcategory_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_collection_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/support/things_to_do_helpers.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_steps.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do_collection_nearby.feature",
+		"/Users/Ian/development/lp/online/waldorf/app/controllers/things_to_do_controller.rb",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do_topics.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do_subcategory.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do_pagination.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do_filters.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do_detail.feature",
+		"/Users/Ian/development/lp/online/waldorf/features/things_to_do_collections.feature",
+		"/Users/Ian/development/lp/online/waldorf/app/helpers/ttd_helper.rb",
+		"/Users/Ian/development/lp/online/rizzo/app/controllers/styleguide_controller.rb",
+		"/Users/Ian/development/lp/online/rizzo/app/helpers/styleguide_helper.rb",
+		"/Users/Ian/development/lp/online/rizzo/app/data/styleguide/forms_stubs.yml",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/lib/extends/controller.js.coffee",
+		"/Users/Ian/development/lp/online/rizzo/spec/javascripts/lib/extends/controller_spec.coffee",
+		"/Users/Ian/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ian/development/lp/online/rizzo/diff.txt",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/sprites/_pois_sprite.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/core_components/cards/_cards_base.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/core_components/_accordion.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_stack_articles.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_datepicker.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/_app/_community/_application.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/lib/utils/page_state.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/lib/components/availability_info.js.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/views/global-nav/index.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_visual_breadcrumbs.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/lib/mixins/flyout.js",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_media-gallery.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/views/components/cards/_ad_sense_card.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_social.sass",
+		"/Users/Ian/development/lp/online/rizzo/Gruntfile.js",
 		"/Users/Ian/development/lp/online/rizzo/config/requirejs.yml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/legacy/snippets/_head.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_secure_core_legacy.coffee",
-		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_secure_core.js.coffee",
-		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_core_legacy.coffee",
-		"/Users/Ian/development/lp/online/rizzo/spec/routing/global_resources_routes_spec.rb",
-		"/Users/Ian/development/lp/online/rizzo/spec/lib/snippet_support_spec.rb",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/legacy/snippets/_leaderboard.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/legacy/snippets/_body_header.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/legacy/snippets/_body_footer.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/_footer.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_fs_init.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/app_core.js.coffee",
-		"/Users/Ian/development/lp/online/rizzo/app/helpers/js_helper.rb",
-		"/Users/Ian/Library/Application Support/Sublime Text 2/Packages/User/Git.sublime-settings",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/fs_init.html.haml",
-		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/snippets/_head_js.coffee",
-		"/Users/Ian/development/lp/online/rizzo/app/lib/host_support.rb",
-		"/Users/Ian/development/lp/online/rizzo/app/controllers/global_controller.rb"
+		"/Users/Ian/development/lp/online/rizzo/Gemfile",
+		"/Users/Ian/development/lp/online/rizzo/before.css",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/sass/mixins/_css3.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/_inputs.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/layouts/modern/_ads.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/sass/extends/lp_styles/_transitions.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_maps.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_read_more_toggle.sass",
+		"/Users/Ian/development/lp/online/rizzo/after_update.css",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_stack.sass",
+		"/Users/Ian/development/lp/online/rizzo/spec/javascripts/fixtures/stack.html",
+		"/Users/Ian/development/lp/online/rizzo/spec/javascripts/fixtures/stack_disabled.html",
+		"/Users/Ian/development/lp/online/rizzo/config/application.rb",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/omniture/s_code.js",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/omniture/s_code-f52e395323aa3db781a1ed95554d38b0.js",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/common_core_no_font_ie.css",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/common_core_no_font.css",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/objects/_media.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/layouts/legacy/_overrides.sass",
+		"/Users/Ian/development/lp/online/rizzo/config/routes.rb",
+		"/Users/Ian/development/lp/online/rizzo/app/views/styleguide/css-utilities/media-mixins.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/manifest.yml",
+		"/Users/Ian/development/lp/online/rizzo/spec/helpers/phantomcss/CasperJs/modules/pagestack.js",
+		"/Users/Ian/development/lp/online/rizzo/app/views/layouts/core/inline_js/_cut_the_mustard.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/spec/helpers/phantomcss/CasperJs/modules/utils.js",
+		"/Users/Ian/development/lp/online/rizzo/spec/javascripts/lib/components/meta_spec.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts/lib/maps/map_styles.coffee",
+		"/Users/Ian/development/lp/online/rizzo/app/data/styleguide/pagination_stubs.yml",
+		"/Users/Ian/development/lp/online/rizzo/package.json",
+		"/Users/Ian/development/lp/online/rizzo/git-hooks/pre-commit",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/icons/active/train.svg",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/icons/active/tapered-arrow-right.svg",
+		"/Users/Ian/development/lp/online/rizzo/app/data/styleguide/tags_stubs.yml",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/core_components/cards/_card_appearance.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/core_components/cards/_card_sizes.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/views/styleguide/ui-components/cards.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/config.ru",
+		"/Users/Ian/development/lp/online/rizzo/app/data/styleguide/cards_stubs.yml",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/_app/_homepage/_cards.sass",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/icons/active/cards-accepted-08e454127d1be0ffec3f75a85375498a.svg",
+		"/Users/Ian/development/lp/online/rizzo/app/views/styleguide/ui-components/cards-grid.html.haml",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/images/icons/active/cards-accepted.svg",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/icons/active/cards-accepted.svg",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core/layouts/modern/_responsive_nav.sass",
+		"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components/_tooltip.sass",
+		"/Users/Ian/development/lp/online/rizzo/public/assets/partners/intrepid.svg"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
-			""
+			"/Users/Ian/development/lp/online/waldorf/app/",
+			"/Users/Ian/development/lp/online/waldorf/spec/",
+			"/Users/Ian/development/lp/online/waldorf/app/",
+			"/Users/Ian/development/lp/online/rizzo/app/",
+			"/Users/Ian/development/lp/online/rizzo/app/views",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets",
+			"/Users/Ian/development/lp/online/rizzo/app/",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/javascripts",
+			"/Users/Ian/development/lp/online/rizzo",
+			"/Users/Ian/development/lp/online/homepage",
+			"/Users/Ian/development/lp/online/landing-pages",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/app/",
+			"/Users/Ian/development/lp/online/rizzo/app/helpers",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/components",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets/core",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/app/",
+			"/Users/Ian/development/lp/online/rizzo/app/a",
+			"/Users/Ian/development/lp/online/rizzo/app/assets",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/app/assets",
+			"/Users/Ian/development/lp/online/rizzo/app/views",
+			"/Users/Ian/development/lp/online/rizzo/app",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/vendor",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/app",
+			"/Users/Ian/development/lp/online/rizzo/appp",
+			"/Users/Ian/development/lp/online/rizzo/spec",
+			"/Users/Ian/development/lp/online/rizzo/",
+			"/Users/Ian/development/lp/online/rizzo/app/",
+			"/Users/Ian/development/lp/online/rizzo/app/assets/stylesheets"
 		]
 	},
 	"find_state":
@@ -158,37 +581,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			" wv--hidden",
-			"wv-hidden",
-			"form--language",
-			".icon--regular",
-			"      .col--footer__inner",
-			"wv-hidden",
-			"--small",
-			"accordion__target--small",
-			"accordion__title",
-			".acco",
-			".nav--stacked",
-			"destinations",
-			"homepage",
-			"primary",
-			"legacy",
-			"Variant",
-			"place_heading",
-			".place-title-heading",
-			"apple-touch-icon-precomposed",
-			"tighten-text",
-			"icon--regular",
-			"icon--small",
-			"fontslink",
-			"JS_VARS",
-			"googgrsgrsrsletagservices",
-			"gpt",
-			"_config",
-			"js_config",
-			"host_with_port",
-			"tynt",
-			"dns_pre"
+			"Buttons",
+			"SocialButtons",
+			"=>",
+			"price",
+			"price_",
+			"show",
+			"range_present",
+			"present",
+			"stack_matching_top",
+			"xhr_res",
+			"xhr",
+			"range",
+			"range_slider",
+			"xhr",
+			".price",
+			"price?",
+			"price_range",
+			"xhr_response",
+			"xhr",
+			"num_",
+			"Special Offers",
+			"featureDetect",
+			"transition",
+			"slower",
+			"mpu",
+			"facebook",
+			"ad_config",
+			"transition: all 0.2s ease",
+			"transition: all 0.5s ease",
+			"all 0.",
+			"all o0",
+			"all o.",
+			"background-s",
+			"16px 4px 20px",
+			"5px 5px 5px",
+			"5px 5px 5px rgba(0, 0, 0, 0.5)",
+			"0.4 ",
+			"-moz",
+			"-webkit",
+			"transiti",
+			"@include ",
+			"@include",
+			"background-gradient-with-stops",
+			"background-gradient",
+			"keyframes",
+			"+animation-delay",
+			"+animation(",
+			"+animation",
+			"animation",
+			"+backface-visibility()",
+			"+backface-visibility(hidden)",
+			"backface-visibility",
+			"perspective",
+			"transform-origin",
+			"+transform(",
+			"+transform",
+			"+transform(",
+			"+transform",
+			"not-selectable",
+			"+word-break",
+			"+hyphens",
+			"+multiple-text-shadow",
+			"+text-shadow",
+			"text-shadow",
+			"+filter",
+			"vendor-prefixed-transition",
+			"multiple-transitions",
+			"transition-delay",
+			"background-slide-in-from",
+			"+transition(",
+			"+transition(all, 0.5, ease)",
+			"+transition(all, .4, $ease-cubic-out)",
+			"+transition(all, .3, $ease-cubic-out)",
+			"+transition",
+			"+box-sizing",
+			"multiple-box-shadow",
+			"+box-shadow",
+			"+border-radius",
+			"+border-radius-each",
+			"+border-radius-each(",
+			"+border-radius-each",
+			"border-radius-each",
+			"+background",
+			"+appearance",
+			"picker",
+			"foo",
+			"popstate",
+			"scroll_perf",
+			"feature_detect",
+			"polyfill",
+			"scrollIntoViewIfNeeded",
+			"overthrow",
+			"pointer",
+			"'date",
+			"'date'",
+			"date",
+			"gstatic",
+			"fonts.googleapis",
+			"roboto",
+			"_Array_slice_",
+			"s_code",
+			"var ",
+			"s_code",
+			"_Array_slice_",
+			"Empty",
+			"'",
+			"\"]",
+			"[\"",
+			"\"]",
+			"[\"",
+			"foo",
+			"else",
+			"comment",
+			"// ----------------------------------------------------------------------------",
+			"helper",
+			"responsive",
+			"media",
+			"responsive",
+			"sass",
+			"sass-utilities",
+			"=>",
+			"sass-utilities",
+			"%transition--nav",
+			"Function.prototype.bind",
+			"%ruled-list",
+			"%stacked-nav",
+			"%split",
+			"%left-icon--hidden-text"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -196,6 +716,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"@extend %transition--slower",
+			"@extend %transition--base",
+			"%transition--slower"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -206,14 +729,462 @@
 	"groups":
 	[
 		{
+			"selected": 11,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/Ian/development/lp/online/waldorf/app/presenters/thing_to_do_collection_presenter.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4789,
+								4789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3578.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Ian/development/lp/online/waldorf/features/things_to_do_filters.feature",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								923,
+								923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Cucumber/Cucumber Plain Text Feature.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_filter_steps.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "thisn",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Ian/development/lp/online/waldorf/features/step_definitions/things_to_do_subcategory_steps.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Ian/development/lp/online/waldorf/spec/presenters/thing_to_do_collection_presenter_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17373,
+								17373
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 261.0,
+						"translation.y": 7704.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Ian/development/lp/online/waldorf/app/helpers/ttd_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/Ian/development/lp/online/waldorf/spec/helpers/ttd_helper_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/Ian/development/lp/online/waldorf/spec/controllers/things_to_do_controller_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3811,
+								3811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 820.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/Ian/development/lp/online/waldorf/spec/views/things_to_do/index.html.haml_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1564,
+								1564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 183.0,
+						"translation.y": 65.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/Ian/development/lp/online/waldorf/app/assets/stylesheets/application.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1280,
+								1280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/Ian/development/lp/online/waldorf/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								998,
+								998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/Ian/development/lp/online/waldorf/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 55.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/Ian/development/lp/online/waldorf/app/controllers/lodgings_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5811,
+								5811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 5.0,
+						"translation.y": 2350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/Ian/development/lp/online/waldorf/app/assets/javascripts/lib/lodgings.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2257,
+								2257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/Ian/development/lp/online/waldorf/app/controllers/things_to_do_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1787,
+								1787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 634.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -242,13 +1213,14 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 112.0
-	},
-	"replace":
+	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"project": "waldorf.sublime-project",
+	"replace":
+	{
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -257,36 +1229,500 @@
 		"selected_items":
 		[
 			[
-				"rou",
-				"config/routes.rb"
+				"env",
+				".env"
 			],
 			[
-				"route",
-				"config/routes.rb"
+				"ge",
+				"Gemfile"
 			],
 			[
-				"core",
-				"app/views/layouts/core.html.haml"
+				".e",
+				".env"
 			],
 			[
-				"spec",
-				"spec/lib/snippet_support_spec.rb"
+				"app",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"ttd_h",
+				"spec/helpers/ttd_helper_spec.rb"
+			],
+			[
+				"filters",
+				"app/views/things_to_do/partials/_filters.html.haml"
+			],
+			[
+				"scrol",
+				"app/assets/javascripts/lib/utils/scroll_perf.js"
+			],
+			[
+				"feat",
+				"app/assets/javascripts/lib/utils/feature_detect.coffee"
+			],
+			[
+				"flyout",
+				"app/assets/javascripts/lib/mixins/flyout.js"
+			],
+			[
+				"stack.sa",
+				"app/assets/stylesheets/components/_stack.sass"
+			],
+			[
+				"stack_ar",
+				"app/assets/stylesheets/components/_stack_articles.sass"
+			],
+			[
+				"ads.s",
+				"app/assets/stylesheets/core/layouts/modern/_ads.sass"
+			],
+			[
+				"req",
+				"config/requirejs.yml"
+			],
+			[
+				"fly",
+				"app/assets/javascripts/lib/mixins/flyout.js"
+			],
+			[
+				"media",
+				"app/assets/stylesheets/components/_media-gallery.sass"
+			],
+			[
+				"pages_",
+				"app/assets/javascripts/lib/utils/page_state.coffee"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"cards_ap",
+				"app/assets/stylesheets/core/core_components/cards/_card_appearance.sass"
+			],
+			[
+				"cards_",
+				"app/assets/stylesheets/core/core_components/cards/_cards_base.sass"
+			],
+			[
+				"too",
+				"app/assets/stylesheets/components/_tooltip.sass"
+			],
+			[
+				"read_mo",
+				"app/assets/stylesheets/components/_read_more_toggle.sass"
+			],
+			[
+				"maps.",
+				"app/assets/stylesheets/components/_maps.sass"
+			],
+			[
+				"ads",
+				"app/assets/stylesheets/core/layouts/modern/_ads.sass"
+			],
+			[
+				"inputs.s",
+				"app/assets/stylesheets/core/_inputs.sass"
+			],
+			[
+				"css3",
+				"app/assets/stylesheets/sass/mixins/_css3.sass"
+			],
+			[
+				"css",
+				"app/assets/stylesheets/sass/mixins/_css3.sass"
+			],
+			[
+				"dif",
+				"diff.txt"
+			],
+			[
+				"aft",
+				"after.css"
+			],
+			[
+				"before",
+				"before.css"
+			],
+			[
+				"comm",
+				"app/assets/stylesheets/common_core_no_font.sass"
+			],
+			[
+				"requirejs_",
+				"app/views/layouts/core/inline_js/_require_js_config.html.haml"
+			],
+			[
+				"ad_mana",
+				"spec/javascripts/lib/core/ad_manager_spec.coffee"
+			],
+			[
+				"scr",
+				"app/assets/javascripts/lib/utils/scroll_perf.js"
+			],
+			[
+				"pol",
+				"app/assets/javascripts/lib/utils/polyfill.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"infobo",
+				"vendor/assets/javascripts/google-maps-infobox.js"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"pre",
+				"git-hooks/pre-commit"
+			],
+			[
+				"scroll",
+				"app/assets/javascripts/lib/utils/scroll_perf.js"
+			],
+			[
+				"client",
+				"app/assets/javascripts/lib/utils/client_cache.js"
+			],
+			[
+				"polyfi",
+				"app/assets/javascripts/lib/utils/polyfill.js"
+			],
+			[
+				"typo",
+				"app/assets/javascripts/lib/styleguide/typography.js"
+			],
+			[
+				"flyou",
+				"app/assets/javascripts/lib/mixins/flyout.js"
+			],
+			[
+				"foo",
+				"foo.sh"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"grnt",
+				"Gruntfile.js"
 			],
 			[
 				"routes",
 				"config/routes.rb"
 			],
 			[
-				"head",
-				"app/views/layouts/core/snippets/_head_js.haml"
+				"styl",
+				"app/controllers/styleguide_controller.rb"
 			],
 			[
-				"app",
-				"app/assets/javascripts/app_core.js.coffee"
+				"sty",
+				"app/helpers/styleguide_helper.rb"
+			],
+			[
+				"snipp",
+				"app/views/styleguide/partials/_snippet.html.haml"
+			],
+			[
+				"svg",
+				"app/assets/stylesheets/sass/mixins/_svg.sass"
 			],
 			[
 				"rout",
 				"config/routes.rb"
+			],
+			[
+				"style",
+				"app/helpers/styleguide_helper.rb"
+			],
+			[
+				"styel",
+				"app/controllers/styleguide_controller.rb"
+			],
+			[
+				"global",
+				"features/step_definitions/global_resources_steps.rb"
+			],
+			[
+				"respo",
+				"app/views/global-nav/responsive.html.haml"
+			],
+			[
+				"globa",
+				"features/step_definitions/global_resources_steps.rb"
+			],
+			[
+				"requi",
+				"config/requirejs.yml"
+			],
+			[
+				"appl",
+				"config/application.rb"
+			],
+			[
+				"pro",
+				"config/environments/production.rb"
+			],
+			[
+				"require",
+				"app/views/layouts/core/inline_js/_require_js_async.html.haml"
+			],
+			[
+				"glob",
+				"app/controllers/global_resources_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"footer_s",
+				"app/views/layouts/core/snippets/_footer_sitemap.html.haml"
+			],
+			[
+				"footer_ab",
+				"app/views/layouts/core/snippets/_footer_about.html.haml"
+			],
+			[
+				"body_",
+				"app/views/layouts/core/snippets/_body_footer.haml"
+			],
+			[
+				"r",
+				"config/routes.rb"
+			],
+			[
+				"rot",
+				"public/robots.txt"
+			],
+			[
+				"st",
+				"app/helpers/styleguide_helper.rb"
+			],
+			[
+				"clearf",
+				"app/assets/stylesheets/sass/extends/helpers/_clearfix.sass"
+			],
+			[
+				"s",
+				"app/helpers/styleguide_helper.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"contr",
+				"app/controllers/styleguide_controller.rb"
+			],
+			[
+				"desc",
+				"app/views/styleguide/partials/_description.html.haml"
+			],
+			[
+				"leg",
+				"app/views/styleguide/sass-utilities/legacy.html.haml"
+			],
+			[
+				"leac",
+				"app/assets/stylesheets/core/utilities/legacy.sass"
+			],
+			[
+				"range",
+				"app/assets/javascripts/lib/components/range_slider.js"
+			],
+			[
+				"legac",
+				"app/assets/stylesheets/core/utilities/legacy.sass"
+			],
+			[
+				"sth",
+				"app/helpers/styleguide_helper.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"place_tt",
+				"app/views/components/_place_title.html.haml"
+			],
+			[
+				"tags",
+				"app/data/styleguide/tags_stubs.yml"
+			],
+			[
+				"cont",
+				"app/assets/javascripts/lib/extends/controller.js.coffee"
+			],
+			[
+				"contro",
+				"app/assets/javascripts/lib/extends/controller.js.coffee"
+			],
+			[
+				"controll",
+				"spec/javascripts/lib/extends/controller_spec.coffee"
+			],
+			[
+				"control",
+				"app/assets/javascripts/lib/extends/controller.js.coffee"
+			],
+			[
+				"tool",
+				"app/assets/stylesheets/components/_tooltip.sass"
+			],
+			[
+				"left",
+				"app/views/components/navigation/_left.html.haml"
+			],
+			[
+				"stac",
+				"app/assets/stylesheets/core/core_components/_stack.sass"
+			],
+			[
+				"cards",
+				"app/views/styleguide/ui-components/cards.html.haml"
+			],
+			[
+				"respon",
+				"app/assets/stylesheets/sass/mixins/_responsive.sass"
+			],
+			[
+				"sta",
+				"app/assets/stylesheets/core/core_components/_stack.sass"
+			],
+			[
+				"lef",
+				"app/views/styleguide/ui-components/left_nav.html.haml"
+			],
+			[
+				"resp",
+				"app/views/layouts/responsive.html.haml"
+			],
+			[
+				"filt",
+				"app/assets/javascripts/lib/components/filter.js.coffee"
+			],
+			[
+				"rizz",
+				"rizzo.gemspec"
+			],
+			[
+				"filter",
+				"app/assets/javascripts/lib/components/filter.js.coffee"
+			],
+			[
+				"form",
+				"app/data/styleguide/forms_stubs.yml"
+			],
+			[
+				"dropdo",
+				"app/views/components/forms/_dropdown.html.haml"
+			],
+			[
+				"fomr",
+				"app/data/styleguide/forms_stubs.yml"
+			],
+			[
+				"bo",
+				"bower.json"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"forms",
+				"app/data/styleguide/forms_stubs.yml"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"overr",
+				"app/assets/stylesheets/core/layouts/legacy/_overrides.sass"
+			],
+			[
+				"require_",
+				"app/views/layouts/core/inline_js/_require_js_config.html.haml"
+			],
+			[
+				"head_j",
+				"app/views/layouts/core/snippets/_head_js.haml"
+			],
+			[
+				"authe",
+				"tmp/assets/lib/core/authenticator.js"
+			],
+			[
+				"authenti",
+				"app/assets/javascripts/lib/core/authenticator.coffee"
+			],
+			[
+				"shop_ca",
+				"app/views/components/cards/_shop_card.html.haml"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"feature",
+				"app/assets/javascripts/lib/utils/feature_detect.coffee"
+			],
+			[
+				"featre",
+				"tmp/assets/lib/utils/feature_detect.js"
+			],
+			[
+				"cut",
+				"app/views/layouts/core/inline_js/_cut_the_mustard.html.haml"
+			],
+			[
+				"cut_",
+				"app/views/layouts/core/inline_js/_cut_the_mustard.html.haml"
+			],
+			[
+				"font_",
+				"app/views/layouts/core/inline_js/_fonts_async.html.haml"
+			],
+			[
+				"page",
+				"tmp/assets/lib/utils/page_state.js"
+			],
+			[
+				"contrller",
+				"app/assets/javascripts/lib/extends/controller.js.coffee"
+			],
+			[
+				"footer.s",
+				"app/assets/stylesheets/core/layouts/modern/_footer.sass"
+			],
+			[
+				"seconda",
+				"app/assets/stylesheets/core/layouts/modern/_secondary_nav.sass"
+			],
+			[
+				"seco",
+				"app/views/styleguide/ui-components/secondary_nav.html.haml"
+			],
+			[
+				"styleguide",
+				"app/helpers/styleguide_helper.rb"
+			],
+			[
+				"rows",
+				"app/assets/stylesheets/_globalnav/_core/_rows.sass"
+			],
+			[
+				"app_co",
+				"tmp/assets/app_core.js"
 			]
 		],
 		"width": 0.0
@@ -296,85 +1732,27 @@
 		"height": 500.0,
 		"selected_items":
 		[
-			[
-				"bea",
-				"/Users/Ian/Dropbox/Repositories/myRepos/dotfiles/sublimetext/Projects/beaker.sublime-project"
-			],
-			[
-				"riz",
-				"/Users/Ian/Dropbox/Repositories/myRepos/dotfiles/sublimetext/Projects/rizzo.sublime-project"
-			],
-			[
-				"",
-				"/Users/Ian/rizzo.sublime-project"
-			],
-			[
-				"wa",
-				"/Users/Ian/waldorf.sublime-project"
-			],
-			[
-				"w",
-				"/Users/Ian/waldorf.sublime-project"
-			],
-			[
-				"beaker",
-				"/Users/Ian/beaker.sublime-project"
-			],
-			[
-				"wal",
-				"/Users/Ian/waldorf.sublime-project"
-			],
-			[
-				"fla",
-				"/Users/Ian/flamsteed.sublime-project"
-			],
-			[
-				"b",
-				"/Users/Ian/beaker.sublime-project"
-			],
-			[
-				"ea",
-				"/Users/Ian/beaker.sublime-project"
-			],
-			[
-				"a",
-				"/Users/Ian/avocado.sublime-project"
-			],
-			[
-				"avo",
-				"/Users/Ian/avocado.sublime-project"
-			],
-			[
-				"av",
-				"/Users/Ian/avocado.sublime-project"
-			],
-			[
-				"mi",
-				"/Users/Ian/microsites.sublime-project"
-			],
-			[
-				"mic",
-				"/Users/Ian/microsites.sublime-project"
-			],
-			[
-				" micr",
-				"/Users/Ian/microsites.sublime-project"
-			],
-			[
-				"f",
-				"/Users/Ian/flamsteed.sublime-project"
-			],
-			[
-				"fl",
-				"/Users/Ian/flamsteed.sublime-project"
-			]
 		],
 		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 307.0,
-	"status_bar_visible": true
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
