@@ -1,9 +1,0 @@
-# Directories
-
-alias lp='cd ~/development/lp/online/'
-
-alias rizzo='cd ~/development/lp/online/rizzo'
-alias flam='cd ~/development/lp/online/flamsteed'
-alias waldorf='cd ~/development/lp/online/waldorf'
-alias rowlf='cd ~/development/lp/online/rowlf'
-alias homepage='cd ~/development/lp/online/homepage'
