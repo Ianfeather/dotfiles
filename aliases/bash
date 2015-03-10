@@ -6,20 +6,13 @@ alias reload='. ~/.bash_profile'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias repos='cd ~/Repositories'
-alias dotfiles='cd /Users/Ian/Repositories/myRepos/dotfiles'
+alias dotfiles='cd /Users/Ian/Repositories/dotfiles'
 
 # commands starting with % for pasting from web
-alias %=' '
+#alias %=' '
 alias pbc='pwd | pbcopy'
-alias tailler="tail -f log/development.log;"
-alias pygrep="grep --include='*.py' $*"
-alias rbgrep="grep --include='*.rb' $*"
-
-# changing directory to code project
-function c { cd ~/development/lp/online/$1; }
 
 # Spin up a server, just specify port
-
 server() {
   open "http://localhost:${1}" && python -m SimpleHTTPServer $1
 }

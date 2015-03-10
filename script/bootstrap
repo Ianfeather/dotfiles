@@ -38,10 +38,10 @@ echo "========================================================"
 echo "Symlinking Sublime Text Settings"
 echo "========================================================"
 
-ln -s $HOME/Repositories/myRepos/dotfiles/sublimetext/User/ $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+ln -s $HOME/Repositories/dotfiles/sublimetext/User/ $HOME/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 
-echo "========================================================"
-echo "AWS Set up"
-echo "========================================================"
+#echo "========================================================"
+#echo "AWS Set up"
+#echo "========================================================"
 
-source script/aws
+#source script/aws
