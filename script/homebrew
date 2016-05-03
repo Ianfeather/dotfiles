@@ -15,4 +15,4 @@ else
   echo "  + Homebrew found."
 fi
 
-brew install grc coreutils the_silver_searcher phantomjs imagemagick node
+brew install grc coreutils phantomjs imagemagick
