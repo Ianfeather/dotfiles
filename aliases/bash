@@ -9,10 +9,12 @@ alias repos='cd ~/Repositories'
 alias dotfiles='cd /Users/Ian/Repositories/dotfiles'
 
 # commands starting with % for pasting from web
-#alias %=' '
 alias pbc='pwd | pbcopy'
 
 # Spin up a server, just specify port
 server() {
   open "http://localhost:${1}" && python -m SimpleHTTPServer $1
 }
+
+alias sshsiege='SSH_USER=ian.feather AWS_PROFILE=legacy-ssh-stage ./scripts/aws_profile ./ops/scripts/legacy_ssh -e stage newsiege'
+alias bfb='rig run bf_bpage_ui --no-limit-resources --rw scripts/run'

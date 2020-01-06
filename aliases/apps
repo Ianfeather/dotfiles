@@ -1,12 +1,6 @@
 #iA Writer
 alias ia='open -b jp.informationarchitects.WriterForMacOSX'
 
-#open current directory in TextMate
-#alias m='mate .'
-
-#open current directory in Coda
-#alias c='coda .'
-
 #Open aliases
 alias aliases='vi ~/.bash/aliases'
 

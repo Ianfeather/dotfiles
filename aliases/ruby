@@ -1,6 +1,0 @@
-#bundler
-alias be='bundle exec '
-alias bu='bundle update '
-alias bi='bundle install'
-alias uni='bundle exec unicorn'
-alias grd='bundle exec guard'
